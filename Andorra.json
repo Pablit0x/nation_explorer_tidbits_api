@@ -1,0 +1,15 @@
+{
+  "name": "Andorra",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Tax Haven",
+      "description": "Andorra has historically been a tax haven, attracting shoppers for duty-free shopping and tourists for its ski resorts and natural beauty."
+    },
+    {
+      "id": 2,
+      "title": "No Army",
+      "description": "Andorra is one of the few countries in the world without a standing army, relying on its neighbors, France and Spain, for defense."
+    }
+  ]
+}
