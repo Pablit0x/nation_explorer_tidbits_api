@@ -1,0 +1,79 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "tidbits": [
+        {
+          "id": 1,
+          "title": "Bamiyan Buddhas",
+          "description": "Afghanistan was home to two colossal Buddha statues carved into a cliff in Bamiyan. Sadly, they were destroyed by the Taliban in 2001, but their remnants remain culturally significant."
+        },
+        {
+          "id": 2,
+          "title": "Silk Road Connection",
+          "description": "A crucial part of the ancient Silk Road, Afghanistan has a rich history of trade and cultural exchange between East and West."
+        },
+      ]
+    },
+    {
+      "name": "Albania",
+      "tidbits": [
+        {
+          "id": 1,
+          "title": "Bunkers",
+          "description": "Albania has around 173,000 bunkers scattered across the country, remnants of its communist past under Enver Hoxha."
+        },
+        {
+          "id": 2,
+          "title": "Religious Harmony",
+          "description": "Albania embraces religious tolerance, with Islam, Christianity, and other faiths coexisting peacefully."
+        },
+      ]
+    },
+    {
+      "name": "Algeria",
+      "tidbits": [
+         {
+          "id": 1,
+          "title": "Sahara Desert",
+          "description": "A significant part of the Sahara Desert lies within Algeria's borders, showcasing stunning sand dunes and unique desert landscapes."
+        },
+        {
+          "id": 2,
+          "title": "Rich History",
+          "description": "Algeria has been inhabited for thousands of years, with historical sites like the ancient Roman city of Timgad and the Casbah of Algiers showcasing its diverse history."
+        },
+      ]
+    },
+    {
+      "name": "American Samoa",
+      "tidbits": [
+         {
+          "id": 1,
+          "title": "Culture of Fa'a Samoa",
+          "description": "American Samoa embraces the Fa'a Samoa, a way of life deeply rooted in Samoan culture, emphasizing respect for elders, communal living, and traditional dance (Siva)."
+        },
+        {
+          "id": 2,
+          "title": "Football Passion",
+          "description": "American Samoa gained attention for its national football team's (soccer) resilience, famously recording one of the most significant victories after a long losing streak."
+        },
+      ]
+    },
+    {
+      "name": "Andorra",
+      "tidbits": [
+         {
+          "id": 1,
+          "title": "Tax Haven",
+          "description": "Andorra has historically been a tax haven, attracting shoppers for duty-free shopping and tourists for its ski resorts and natural beauty."
+        },
+        {
+          "id": 2,
+          "title": "No Army",
+          "description": "Andorra is one of the few countries in the world without a standing army, relying on its neighbors, France and Spain, for defense."
+        },
+      ]
+    }
+  ]
+}
