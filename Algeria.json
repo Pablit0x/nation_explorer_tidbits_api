@@ -1,0 +1,15 @@
+{
+  "name": "Algeria",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Sahara Desert",
+      "description": "A significant part of the Sahara Desert lies within Algeria's borders, showcasing stunning sand dunes and unique desert landscapes."
+    },
+    {
+      "id": 2,
+      "title": "Rich History",
+      "description": "Algeria has been inhabited for thousands of years, with historical sites like the ancient Roman city of Timgad and the Casbah of Algiers showcasing its diverse history."
+    }
+  ]
+}
