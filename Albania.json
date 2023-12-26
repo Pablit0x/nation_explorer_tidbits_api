@@ -1,0 +1,15 @@
+{
+  "name": "Albania",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Bunkers",
+      "description": "Albania has around 173,000 bunkers scattered across the country, remnants of its communist past under Enver Hoxha."
+    },
+    {
+      "id": 2,
+      "title": "Religious Harmony",
+      "description": "Albania embraces religious tolerance, with Islam, Christianity, and other faiths coexisting peacefully."
+    }
+  ]
+}
