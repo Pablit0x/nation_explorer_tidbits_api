@@ -1,0 +1,20 @@
+{
+  "name": "Austria",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Musical Legacy",
+      "description": "Austria has a rich musical heritage, being the birthplace of famous composers like Mozart, Beethoven, and Strauss, and is renowned for its classical music traditions."
+    },
+    {
+      "id": 2,
+      "title": "Alpine Beauty",
+      "description": "The Austrian Alps offer stunning landscapes for outdoor enthusiasts, from skiing in winter to hiking and mountaineering in the summer, showcasing breathtaking natural beauty."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Capital",
+      "description": "Vienna, Austria's capital, is a cultural hub, boasting magnificent palaces, museums, and a vibrant coffeehouse culture, reflecting its historical grandeur."
+    }
+  ]
+}
