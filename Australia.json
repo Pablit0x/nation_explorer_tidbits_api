@@ -1,0 +1,20 @@
+{
+  "name": "Australia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Unique Wildlife",
+      "description": "Australia is home to unique wildlife like kangaroos, koalas, and the iconic duck-billed platypus, found nowhere else in the world."
+    },
+    {
+      "id": 2,
+      "title": "Vast Outback",
+      "description": "The Australian Outback covers a vast expanse of the country, characterized by arid landscapes, ancient rock formations like Uluru, and a rich Indigenous cultural heritage."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "description": "From the Great Barrier Reef to the rugged landscapes of the Blue Mountains and the bustling cities like Sydney and Melbourne, Australia offers a diverse range of landscapes and experiences."
+    }
+  ]
+}
