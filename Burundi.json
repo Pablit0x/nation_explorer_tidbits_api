@@ -1,0 +1,20 @@
+{
+  "name": "Burundi",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Great Lakes Region",
+      "description": "Burundi is situated in the Great Lakes region of Africa, characterized by stunning landscapes, fertile valleys, and a portion of Lake Tanganyika, one of Africa's Great Lakes."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Traditions",
+      "description": "The country boasts rich cultural traditions, including vibrant drumming performances, intricate basket weaving, and traditional dances like the famous Intore dance."
+    },
+    {
+      "id": 3,
+      "title": "Challenging History",
+      "description": "Burundi has faced challenges stemming from ethnic tensions, but ongoing efforts aim to foster unity, reconciliation, and stability for a peaceful future."
+    }
+  ]
+}
