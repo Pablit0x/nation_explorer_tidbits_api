@@ -1,0 +1,20 @@
+{
+  "name": "Argentina",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Tango Tradition",
+      "description": "Argentina is famous for the passionate dance form of tango, originating in the working-class neighborhoods of Buenos Aires, now celebrated worldwide."
+    },
+    {
+      "id": 2,
+      "title": "Gaucho Culture",
+      "description": "The gaucho, Argentina's iconic cowboy, represents a rich rural culture, known for horsemanship, folk music (folklore), and traditional attire."
+    },
+    {
+      "id": 3,
+      "title": "Breathtaking Landscapes",
+      "description": "Argentina offers diverse landscapes, from the Andes Mountains to the Pampas grasslands and the stunning Iguazu Falls, attracting nature lovers and adventurers."
+    }
+  ]
+}
