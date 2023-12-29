@@ -1,0 +1,20 @@
+{
+  "name": "Bhutan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Gross National Happiness",
+      "description": "Bhutan measures its success by Gross National Happiness (GNH), prioritizing the well-being and happiness of its citizens over material wealth."
+    },
+    {
+      "id": 2,
+      "title": "Breathtaking Landscapes",
+      "description": "Bhutan is known for its pristine landscapes, including the majestic Himalayas, ancient monasteries like Paro Taktsang (Tiger's Nest), and serene valleys."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Preservation",
+      "description": "Bhutan holds a strong commitment to preserving its unique culture and traditions, seen in its vibrant festivals, traditional dress (kira and gho), and architecture."
+    }
+  ]
+}
