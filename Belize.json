@@ -1,0 +1,20 @@
+{
+  "name": "Belize",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Barrier Reef",
+      "description": "Belize boasts the second-largest barrier reef globally, offering exceptional diving opportunities and a diverse marine ecosystem."
+    },
+    {
+      "id": 2,
+      "title": "Mayan Heritage",
+      "description": "Belize is rich in Mayan history, with ancient ruins like Caracol and Xunantunich, showcasing the country's significant archaeological sites."
+    },
+    {
+      "id": 3,
+      "title": "Rainforest Adventures",
+      "description": "Belize is home to lush rainforests, providing habitats for diverse wildlife, including jaguars and howler monkeys, inviting eco-tourism and exploration."
+    }
+  ]
+}
