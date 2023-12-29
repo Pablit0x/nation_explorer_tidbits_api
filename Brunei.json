@@ -1,0 +1,20 @@
+{
+  "name": "Brunei",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Oil Reserves",
+      "description": "Brunei is blessed with significant oil reserves, contributing to its status as one of the wealthiest nations, with a high standard of living for its citizens."
+    },
+    {
+      "id": 2,
+      "title": "Islamic Culture",
+      "description": "Brunei embraces Islamic traditions and culture, with grand mosques, Islamic art, and adherence to Sharia law, influencing various aspects of daily life."
+    },
+    {
+      "id": 3,
+      "title": "Conservation Efforts",
+      "description": "Despite its wealth, Brunei is dedicated to preserving its natural environment, with vast areas of pristine rainforest and wildlife sanctuaries protected for conservation."
+    }
+  ]
+}
