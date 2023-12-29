@@ -1,0 +1,20 @@
+{
+  "name": "Aruba",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "One Happy Island",
+      "description": "Aruba is known as 'One Happy Island' due to its friendly locals, beautiful beaches, and a laid-back atmosphere, making it a popular destination for relaxation."
+    },
+    {
+      "id": 2,
+      "title": "Year-Round Sunshine",
+      "description": "Aruba enjoys a sunny climate year-round with minimal rainfall, offering visitors consistent warmth and perfect conditions for beach activities and water sports."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Fusion",
+      "description": "Aruba's culture is a vibrant mix of Dutch influences, indigenous heritage, and Caribbean rhythms, showcased in its music, cuisine, and festivals like Carnival."
+    }
+  ]
+}
