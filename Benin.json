@@ -1,0 +1,20 @@
+{
+  "name": "Benin",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Kingdom of Dahomey",
+      "description": "Benin was once home to the powerful Kingdom of Dahomey, known for its skilled warriors and the historic city of Abomey, a UNESCO World Heritage Site."
+    },
+    {
+      "id": 2,
+      "title": "Voodoo Tradition",
+      "description": "Benin is considered the birthplace of Voodoo (Vodun), a significant aspect of its culture, spirituality, and rituals, celebrated in various ceremonies."
+    },
+    {
+      "id": 3,
+      "title": "Artistic Heritage",
+      "description": "Benin is renowned for its artistic traditions, including intricately carved wooden masks and sculptures, reflecting its rich cultural heritage."
+    }
+  ]
+}
