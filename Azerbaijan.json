@@ -1,0 +1,20 @@
+{
+  "name": "Azerbaijan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Azerbaijan is a melting pot of cultures, blending influences from Persian, Turkish, and Russian traditions, reflected in its art, music, and cuisine."
+    },
+    {
+      "id": 2,
+      "title": "Land of Fire",
+      "description": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves, historically giving rise to natural eternal flames like the Yanar Dag and Ateshgah Fire Temple."
+    },
+    {
+      "id": 3,
+      "title": "Oil Heritage",
+      "description": "Baku, the capital, is a juxtaposition of modern architecture and historic landmarks. It's historically significant for its oil industry and features the iconic Flame Towers."
+    }
+  ]
+}
