@@ -1,0 +1,20 @@
+{
+  "name": "Bahrain",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pearl Diving Legacy",
+      "description": "Bahrain has a rich history in pearl diving, once a major industry. The traditional dhows and the Pearling Path reflect this heritage."
+    },
+    {
+      "id": 2,
+      "title": "Modern Architecture",
+      "description": "Bahrain blends tradition with modernity, boasting contemporary architectural marvels like the Bahrain World Trade Center and the iconic Bahrain National Museum."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Hub",
+      "description": "Manama, the capital, is a vibrant cultural center, offering a mix of historical sites, bustling souks, and a thriving arts and dining scene."
+    }
+  ]
+}
