@@ -1,0 +1,20 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Ottoman Heritage",
+      "description": "Bosnia and Herzegovina bear the marks of Ottoman rule in its architecture, cuisine, and traditions, seen in historic bridges like the iconic Stari Most in Mostar."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country is blessed with stunning natural beauty, including the emerald-green waters of the Neretva River and the picturesque landscapes of the Dinaric Alps."
+    },
+    {
+      "id": 3,
+      "title": "Complex Cultural Blend",
+      "description": "Bosnia and Herzegovina blend Slavic, Ottoman, and Austro-Hungarian influences, creating a diverse cultural mosaic reflected in its arts, music, and festivals."
+    }
+  ]
+}
