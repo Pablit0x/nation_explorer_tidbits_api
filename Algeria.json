@@ -10,6 +10,11 @@
       "id": 2,
       "title": "Rich History",
       "description": "Algeria has been inhabited for thousands of years, with historical sites like the ancient Roman city of Timgad and the Casbah of Algiers showcasing its diverse history."
+    },
+    {
+      "id": 3,
+      "title": "Berber Heritage",
+      "description": "Algeria boasts a rich Berber heritage, evident in its traditions, language, and cultural practices, preserving an ancient way of life."
     }
   ]
 }
