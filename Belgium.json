@@ -1,0 +1,20 @@
+{
+  "name": "Belgium",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Treasures",
+      "description": "Belgium is home to stunning medieval towns like Bruges, renowned for its well-preserved architecture and historic charm, attracting tourists worldwide."
+    },
+    {
+      "id": 2,
+      "title": "Culinary Delights",
+      "description": "Belgium is famous for its culinary offerings, including waffles, chocolates, and a vast array of delicious beers, showcasing its gastronomic excellence."
+    },
+    {
+      "id": 3,
+      "title": "European Union Headquarters",
+      "description": "Brussels, Belgium's capital, houses the headquarters of the European Union, playing a pivotal role in global politics and diplomacy."
+    }
+  ]
+}
