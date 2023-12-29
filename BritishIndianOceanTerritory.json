@@ -1,0 +1,20 @@
+{
+  "name": "British Indian Ocean Territory",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Strategic Military Base",
+      "description": "The British Indian Ocean Territory houses a strategic military base, Diego Garcia, leased to the United Kingdom by the United States, playing a significant role in global geopolitics."
+    },
+    {
+      "id": 2,
+      "title": "Ecological Preservation",
+      "description": "Despite its restricted access, the territory is home to diverse marine life and ecosystems, with efforts in place to protect its natural environment and biodiversity."
+    },
+    {
+      "id": 3,
+      "title": "Controversial History",
+      "description": "The establishment of the military base led to the forced displacement of indigenous Chagossians, resulting in a long-standing legal and humanitarian controversy."
+    }
+  ]
+}
