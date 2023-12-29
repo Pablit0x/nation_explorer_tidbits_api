@@ -1,0 +1,20 @@
+{
+  "name": "Armenia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient History",
+      "description": "Armenia boasts a rich historical legacy, being one of the world's oldest civilizations, with a heritage dating back thousands of years, including ancient monasteries and archaeological sites."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Resilience",
+      "description": "Despite a turbulent past, Armenia preserves a strong cultural identity, evident in its traditional music, dance, intricate craftsmanship like carpet weaving, and cuisine."
+    },
+    {
+      "id": 3,
+      "title": "Mount Ararat",
+      "description": "Though located outside its borders, Mount Ararat holds immense cultural significance to Armenians, featuring prominently in their folklore, art, and national identity."
+    }
+  ]
+}
