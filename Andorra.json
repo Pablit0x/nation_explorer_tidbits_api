@@ -10,6 +10,11 @@
       "id": 2,
       "title": "No Army",
       "description": "Andorra is one of the few countries in the world without a standing army, relying on its neighbors, France and Spain, for defense."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Melting Pot",
+      "description": "Andorra's unique location and history foster a diverse cultural blend, seen in its Catalan traditions, French and Spanish influences, creating a rich tapestry of heritage."
     }
   ]
 }
