@@ -1,0 +1,20 @@
+{
+  "name": "Angola",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Wonders",
+      "description": "Angola boasts stunning natural wonders like the Tunda Vala Fissure, impressive waterfalls like the Kalandula Falls, and the otherworldly beauty of the Namib Desert dunes in the south."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "Angola's diverse cultural heritage is a fusion of indigenous traditions, Portuguese colonial influences, and modern African art, music, and dance, creating a vibrant tapestry of customs."
+    },
+    {
+      "id": 3,
+      "title": "Recovery from Conflict",
+      "description": "Following years of civil war, Angola is making strides in rebuilding its infrastructure and economy. The country's resilience is reflected in its people's determination for progress."
+    }
+  ]
+}
