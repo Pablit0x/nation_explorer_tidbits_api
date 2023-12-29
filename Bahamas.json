@@ -1,0 +1,20 @@
+{
+  "name": "Bahamas",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Island Paradise",
+      "description": "The Bahamas is an archipelago of over 700 islands, renowned for its stunning beaches, crystal-clear waters, and vibrant marine life, attracting tourists seeking a tropical paradise."
+    },
+    {
+      "id": 2,
+      "title": "Pirate History",
+      "description": "The Bahamas has a rich pirate history, with legends of famous pirates like Blackbeard and stories of hidden treasures, adding intrigue to its past."
+    },
+    {
+      "id": 3,
+      "title": "Junkanoo Festival",
+      "description": "The Junkanoo Festival, a vibrant celebration of music, dance, and colorful costumes, is a hallmark of Bahamian culture, held during the holiday season."
+    }
+  ]
+}
