@@ -1,0 +1,20 @@
+{
+  "name": "Bangladesh",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "River Delta",
+      "description": "Bangladesh is home to the world's largest river delta, formed by the Ganges, Brahmaputra, and Meghna rivers, shaping a unique and fertile landscape."
+    },
+    {
+      "id": 2,
+      "title": "Microcredit Movement",
+      "description": "Bangladesh is known for pioneering microcredit initiatives like Grameen Bank, empowering impoverished communities by providing small loans, primarily to women."
+    },
+    {
+      "id": 3,
+      "title": "Mangrove Forests",
+      "description": "The Sundarbans, shared with India, is the largest mangrove forest globally, hosting diverse wildlife, including the Bengal tiger, and serving as a natural barrier against storms."
+    }
+  ]
+}
