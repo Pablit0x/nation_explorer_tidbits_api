@@ -1,0 +1,20 @@
+{
+  "name": "Bouvet Island",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Remote and Uninhabited",
+      "description": "Bouvet Island is one of the most remote places on Earth, uninhabited and covered by glaciers, making it one of the least accessible islands globally."
+    },
+    {
+      "id": 2,
+      "title": "Discovered by a Norwegian",
+      "description": "The island was discovered by a Norwegian explorer in the 18th century and is now an uninhabited territory of Norway, primarily visited by research expeditions."
+    },
+    {
+      "id": 3,
+      "title": "Protected Nature Reserve",
+      "description": "Bouvet Island is a designated nature reserve, fostering unique ecosystems with seals, seabirds, and limited vegetation surviving in its harsh conditions."
+    }
+  ]
+}
