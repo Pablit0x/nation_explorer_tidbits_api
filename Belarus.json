@@ -1,0 +1,20 @@
+{
+  "name": "Belarus",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Lakes and Forests",
+      "description": "Belarus is blessed with abundant forests and over 11,000 lakes, including the Braslaw Lakes, offering picturesque landscapes and opportunities for outdoor activities."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "Belarus boasts a rich cultural heritage, seen in its diverse architecture, traditional crafts like pottery and embroidery, and the UNESCO-listed Mir Castle Complex."
+    },
+    {
+      "id": 3,
+      "title": "Bison Reserve",
+      "description": "Belovezhskaya Pushcha National Park hosts Europe's largest population of European bison, symbolizing conservation efforts and biodiversity in the region."
+    }
+  ]
+}
