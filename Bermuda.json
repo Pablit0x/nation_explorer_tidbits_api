@@ -1,0 +1,20 @@
+{
+  "name": "Bermuda",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pink Sand Beaches",
+      "description": "Bermuda is famed for its stunning pink sand beaches, caused by the presence of crushed coral and calcium carbonate, creating a picturesque shoreline."
+    },
+    {
+      "id": 2,
+      "title": "Maritime History",
+      "description": "Bermuda has a rich maritime heritage, with shipwrecks dotting its waters, offering exceptional diving experiences and tales of naval history."
+    },
+    {
+      "id": 3,
+      "title": "Mysteries of the Bermuda Triangle",
+      "description": "The Bermuda Triangle, an area between Miami, Bermuda, and Puerto Rico, has been associated with mysterious disappearances of ships and aircraft, capturing global interest."
+    }
+  ]
+}
