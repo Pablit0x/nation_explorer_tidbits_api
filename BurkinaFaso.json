@@ -1,0 +1,20 @@
+{
+  "name": "Burkina Faso",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Land of Upright People",
+      "description": "Burkina Faso translates to 'Land of Upright People,' reflecting its citizens' strong sense of dignity, resilience, and communal values."
+    },
+    {
+      "id": 2,
+      "title": "Vibrant Arts and Culture",
+      "description": "Burkina Faso is known for its lively arts scene, featuring traditional music, dance (such as the energetic Balafon), and the renowned FESPACO film festival."
+    },
+    {
+      "id": 3,
+      "title": "Sahelian Landscapes",
+      "description": "The country is characterized by Sahelian landscapes, showcasing both savannah grasslands and the stunning Sindou Peaks in the Banfora region."
+    }
+  ]
+}
