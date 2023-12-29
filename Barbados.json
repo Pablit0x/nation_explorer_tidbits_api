@@ -1,0 +1,20 @@
+{
+  "name": "Barbados",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Paradise Beaches",
+      "description": "Barbados is famous for its beautiful beaches, offering powdery white sands, crystal-clear waters, and ideal conditions for snorkeling, diving, and relaxation."
+    },
+    {
+      "id": 2,
+      "title": "British Heritage",
+      "description": "With a blend of British colonial history and Caribbean charm, Barbados features colonial architecture, historic sites like Bridgetown, and a passion for cricket."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Barbadian cuisine, known as Bajan cuisine, offers a fusion of African, Indian, and British flavors, with specialties like flying fish and cou-cou."
+    }
+  ]
+}
