@@ -1,0 +1,20 @@
+{
+  "name": "Anguilla",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pristine Beaches",
+      "description": "Anguilla is renowned for its stunning, powdery white-sand beaches and crystal-clear turquoise waters, attracting visitors seeking a serene tropical paradise."
+    },
+    {
+      "id": 2,
+      "title": "Culinary Delights",
+      "description": "Anguillan cuisine is a delightful blend of Caribbean flavors, featuring fresh seafood dishes like crayfish, grilled lobster, and inventive culinary fusions."
+    },
+    {
+      "id": 3,
+      "title": "Musical Heritage",
+      "description": "Music is at the heart of Anguilla's culture, with vibrant local festivals celebrating calypso, reggae, and soca music, showcasing the island's rich musical heritage."
+    }
+  ]
+}
