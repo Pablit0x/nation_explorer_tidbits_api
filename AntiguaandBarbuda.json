@@ -1,0 +1,20 @@
+{
+  "name": "Antigua and Barbuda",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Beach Paradise",
+      "description": "Antigua and Barbuda are renowned for their pristine beaches, with Antigua alone boasting 365 beaches, one for each day of the year, offering a perfect tropical escape."
+    },
+    {
+      "id": 2,
+      "title": "Rich History",
+      "description": "With a history influenced by Amerindian, African, and British colonial heritage, Antigua and Barbuda's historical sites like Nelson's Dockyard reflect its diverse past."
+    },
+    {
+      "id": 3,
+      "title": "Sailing Capital",
+      "description": "Known as the 'Sailing Capital of the Caribbean,' Antigua hosts prestigious sailing events like Antigua Sailing Week, attracting enthusiasts and professionals worldwide."
+    }
+  ]
+}
