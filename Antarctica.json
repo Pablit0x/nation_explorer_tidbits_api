@@ -1,0 +1,20 @@
+{
+  "name": "Antarctica",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Extreme Weather",
+      "description": "Antarctica is the coldest, windiest, and driest continent on Earth. Its temperatures can plummet below -80°C (-112°F), and winds often exceed hurricane force."
+    },
+    {
+      "id": 2,
+      "title": "Unique Ecosystem",
+      "description": "Despite its harsh conditions, Antarctica supports diverse wildlife, including penguins, seals, whales, and various seabirds, adapted to survive in this extreme environment."
+    },
+    {
+      "id": 3,
+      "title": "Scientific Research Hub",
+      "description": "Antarctica serves as a global center for scientific research, offering insights into climate change, astronomy, geology, and studies on adaptation to extreme conditions."
+    }
+  ]
+}
