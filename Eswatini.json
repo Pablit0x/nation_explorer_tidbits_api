@@ -1,0 +1,20 @@
+{
+  "name": "Eswatini",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Traditions",
+      "description": "Eswatini preserves rich cultural traditions, including the reed dance ceremony (Umhlanga) and the vibrant artistry of traditional handicrafts like the exquisite Sisal baskets."
+    },
+    {
+      "id": 2,
+      "title": "Scenic Landscapes",
+      "description": "The country features diverse landscapes, from the beautiful Ezulwini Valley to the stunning views at Malolotja Nature Reserve, attracting nature lovers and hikers."
+    },
+    {
+      "id": 3,
+      "title": "Monarchy and Heritage",
+      "description": "Eswatini, ruled by a monarchy, takes pride in its cultural heritage, seen in the preservation of royal traditions and ceremonies that form an integral part of society."
+    }
+  ]
+}
