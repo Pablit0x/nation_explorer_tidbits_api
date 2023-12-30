@@ -1,0 +1,20 @@
+{
+  "name": "Slovakia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Castles",
+      "description": "Slovakia is home to numerous historical castles, including Spiš Castle, one of the largest castle complexes in Central Europe, recognized as a UNESCO World Heritage Site."
+    },
+    {
+      "id": 2,
+      "title": "Tatra Mountains",
+      "description": "The country boasts the stunning Tatra Mountains, offering outdoor enthusiasts hiking, skiing, and breathtaking alpine scenery in places like High Tatras National Park."
+    },
+    {
+      "id": 3,
+      "title": "Rich Folk Traditions",
+      "description": "Slovakia's folk traditions, music, dance, and crafts are an integral part of its culture, celebrated during various festivals and events throughout the year."
+    }
+  ]
+}
