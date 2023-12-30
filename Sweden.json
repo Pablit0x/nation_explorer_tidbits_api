@@ -1,0 +1,20 @@
+{
+  "name": "Sweden",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Innovation and Design",
+      "description": "Sweden is known for its innovation, contributing to global brands like IKEA, Spotify, and Ericsson. It's also renowned for design, including modern architecture and fashion."
+    },
+    {
+      "id": 2,
+      "title": "Nature and Wilderness",
+      "description": "The country boasts stunning natural landscapes, from vast forests and thousands of coastal islands to the northern Lapland region, offering unique experiences like the Northern Lights."
+    },
+    {
+      "id": 3,
+      "title": "Social Welfare",
+      "description": "Sweden is known for its social welfare system, promoting equality and providing citizens with comprehensive healthcare, education, and social benefits."
+    }
+  ]
+}
