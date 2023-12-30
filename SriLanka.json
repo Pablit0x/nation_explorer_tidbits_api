@@ -1,0 +1,20 @@
+{
+  "name": "Sri Lanka",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Biodiversity Hotspot",
+      "description": "Sri Lanka is a biodiversity hotspot with rich flora and fauna, including the Asian elephant, leopards, and a variety of endemic species in its diverse ecosystems."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage seen in ancient sites like Sigiriya, historic cities like Kandy, and a vibrant tradition of dance, music, and festivals."
+    },
+    {
+      "id": 3,
+      "title": "Tea Production",
+      "description": "Sri Lanka is one of the world's largest tea producers, renowned for Ceylon tea, offering scenic tea plantations that attract visitors to the hill country."
+    }
+  ]
+}
