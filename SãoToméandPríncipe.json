@@ -1,0 +1,20 @@
+{
+  "name": "São Tomé and Príncipe",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Biodiversity Hotspot",
+      "description": "The islands are a biodiversity hotspot with lush rainforests, diverse flora, and fauna, including endemic species like the São Toméan weaver and the Príncipe kingfisher."
+    },
+    {
+      "id": 2,
+      "title": "Colonial History",
+      "description": "Former Portuguese colonies, São Tomé and Príncipe, still bear remnants of colonial architecture and a blend of African and Portuguese cultural influences."
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Production",
+      "description": "The country is known for its cocoa production, producing high-quality chocolate, and offering opportunities for agritourism centered around cocoa plantations."
+    }
+  ]
+}
