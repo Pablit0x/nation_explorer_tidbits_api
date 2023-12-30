@@ -1,0 +1,20 @@
+{
+  "name": "Hungary",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Cultural Heritage",
+      "description": "Hungary boasts a rich cultural heritage with influences from Magyar traditions, historic architecture, and a vibrant folk music and dance scene."
+    },
+    {
+      "id": 2,
+      "title": "Thermal Baths",
+      "description": "The country is famous for its thermal baths, including the historic Széchenyi and Gellért Baths, offering relaxation and wellness experiences."
+    },
+    {
+      "id": 3,
+      "title": "Cuisine and Wine",
+      "description": "Hungarian cuisine, known for dishes like goulash and chimney cake, along with its excellent wines, is integral to the country's culinary identity."
+    }
+  ]
+}
