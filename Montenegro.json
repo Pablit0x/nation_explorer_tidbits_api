@@ -1,0 +1,20 @@
+{
+  "name": "Montenegro",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Adriatic Coastline",
+      "description": "Montenegro boasts a stunning Adriatic coastline with picturesque beaches, medieval towns, and the iconic Bay of Kotor, a UNESCO site."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country offers diverse landscapes, from rugged mountains and glacial lakes to canyons, making it a paradise for nature enthusiasts."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Montenegro's cultural heritage is seen in its Orthodox monasteries, ancient ruins, and a blend of influences from the Balkans and the Mediterranean."
+    }
+  ]
+}
