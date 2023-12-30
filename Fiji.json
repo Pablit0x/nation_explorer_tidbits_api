@@ -1,0 +1,20 @@
+{
+  "name": "Fiji",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Idyllic Islands",
+      "description": "Fiji comprises over 300 idyllic islands, offering pristine beaches, crystal-clear waters, and vibrant coral reefs, making it a haven for tropical getaways."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "The country boasts a rich cultural heritage, showcased in traditional Fijian ceremonies, intricate handicrafts, and a warm spirit of hospitality known as 'bula.'"
+    },
+    {
+      "id": 3,
+      "title": "Adventure Paradise",
+      "description": "Fiji is an adventure paradise, with opportunities for diving, snorkeling, surfing, and exploring lush rainforests and waterfalls across its islands."
+    }
+  ]
+}
