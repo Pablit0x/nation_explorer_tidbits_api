@@ -1,0 +1,20 @@
+{
+  "name": "Netherlands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Low-Lying Country",
+      "description": "The Netherlands is known for its flat landscape, with about a quarter of the country below sea level and a complex system of dikes and canals."
+    },
+    {
+      "id": 2,
+      "title": "Tulips and Windmills",
+      "description": "The country is famous for its tulip fields in spring, picturesque windmills, historic cities like Amsterdam, and extensive cycling paths."
+    },
+    {
+      "id": 3,
+      "title": "Progressive Policies",
+      "description": "The Netherlands is known for progressive policies, including a strong focus on sustainable development, LGBTQ+ rights, and social welfare."
+    }
+  ]
+}
