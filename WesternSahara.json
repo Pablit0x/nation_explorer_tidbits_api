@@ -1,0 +1,20 @@
+{
+  "name": "Western Sahara",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Disputed Territory",
+      "description": "Western Sahara is a disputed territory, claimed by both the self-proclaimed Sahrawi Arab Democratic Republic (SADR) and Morocco, resulting in a long-standing conflict."
+    },
+    {
+      "id": 2,
+      "title": "Geographical Features",
+      "description": "The region includes diverse landscapes, from desert expanses of the Sahara to coastal areas, and it is home to natural resources like phosphate deposits."
+    },
+    {
+      "id": 3,
+      "title": "Political Situation",
+      "description": "The political status of Western Sahara remains unresolved, with ongoing efforts by the United Nations to find a mutually acceptable solution for the region's future."
+    }
+  ]
+}
