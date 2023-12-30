@@ -1,0 +1,20 @@
+{
+  "name": "Peru",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Inca Heritage",
+      "description": "Peru is renowned for its rich Inca heritage, including the iconic Machu Picchu, ancient ruins, and the Inca Trail trek."
+    },
+    {
+      "id": 2,
+      "title": "Biodiversity",
+      "description": "The country boasts incredible biodiversity, from the Amazon rainforest to the Andes mountains, fostering unique ecosystems."
+    },
+    {
+      "id": 3,
+      "title": "Gastronomic Capital",
+      "description": "Peru is considered a gastronomic capital, offering diverse cuisine like ceviche and pisco sour, reflecting its culinary heritage."
+    }
+  ]
+}
