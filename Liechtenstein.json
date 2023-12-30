@@ -1,0 +1,20 @@
+{
+  "name": "Liechtenstein",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Microstate in Europe",
+      "description": "Liechtenstein is a small landlocked microstate nestled in the Alps, known for its stunning mountainous landscapes and picturesque villages."
+    },
+    {
+      "id": 2,
+      "title": "Financial Hub",
+      "description": "The country serves as a financial hub, offering favorable tax laws and a thriving economy driven by banking and financial services."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Despite its size, Liechtenstein has a rich cultural heritage, seen in its museums, castles, and love for the arts and classical music."
+    }
+  ]
+}
