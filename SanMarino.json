@@ -1,0 +1,20 @@
+{
+  "name": "San Marino",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Oldest Republic",
+      "description": "San Marino is one of the world's oldest republics, founded in 301 AD, and is considered the oldest sovereign state still in existence."
+    },
+    {
+      "id": 2,
+      "title": "Mount Titano",
+      "description": "The country is known for Mount Titano, with its three peaks and the historic city of San Marino atop one of them, offering breathtaking views."
+    },
+    {
+      "id": 3,
+      "title": "Microstate Charms",
+      "description": "As one of the world's smallest countries, San Marino charms visitors with its medieval architecture, rich history, and picturesque landscapes."
+    }
+  ]
+}
