@@ -1,0 +1,20 @@
+{
+  "name": "Pakistan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Landscapes",
+      "description": "Pakistan boasts diverse landscapes, from the towering peaks of the Himalayas and Karakoram to arid deserts and coastal areas along the Arabian Sea."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "The country has a rich cultural heritage, including historical sites like Mohenjo-Daro and diverse traditions influenced by various civilizations."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Pakistan offers a variety of delicious cuisines, with dishes like biryani and kebabs, reflecting a fusion of flavors from different regions."
+    }
+  ]
+}
