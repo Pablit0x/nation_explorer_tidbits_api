@@ -1,0 +1,20 @@
+{
+  "name": "Monaco",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Principality on the French Riviera",
+      "description": "Monaco is a tiny sovereign city-state on the French Riviera, known for its luxury, casinos, and as a playground for the rich and famous."
+    },
+    {
+      "id": 2,
+      "title": "Glamour and Prestige",
+      "description": "The principality exudes glamour, with prestigious events like the Formula 1 Grand Prix and luxurious yachts lining its harbor."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Charm",
+      "description": "Despite its small size, Monaco has cultural charm, with museums, gardens, and historic sites like the Prince's Palace."
+    }
+  ]
+}
