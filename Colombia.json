@@ -1,0 +1,20 @@
+{
+  "name": "Colombia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Biodiversity Paradise",
+      "description": "Colombia is one of the world's most biodiverse countries, boasting various ecosystems, from Amazon rainforests to Andean peaks, harboring abundant wildlife."
+    },
+    {
+      "id": 2,
+      "title": "Vibrant Culture",
+      "description": "Colombia is renowned for its vibrant culture, including colorful festivals, salsa music, delicious cuisine, and a warm and welcoming attitude known as 'la buena onda.'"
+    },
+    {
+      "id": 3,
+      "title": "Coffee Heritage",
+      "description": "Colombia is famous for its high-quality coffee, with regions like the Coffee Triangle producing some of the world's finest beans, deeply rooted in the country's culture and economy."
+    }
+  ]
+}
