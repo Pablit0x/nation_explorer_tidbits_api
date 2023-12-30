@@ -1,0 +1,20 @@
+{
+  "name": "Gabon",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Biodiversity",
+      "description": "Gabon is known for its rich biodiversity, with vast stretches of pristine rainforests, diverse wildlife, and efforts to conserve its natural heritage."
+    },
+    {
+      "id": 2,
+      "title": "Low Human Impact",
+      "description": "Much of Gabon's landscape remains relatively untouched by human activity, contributing to its status as an ecological sanctuary in Central Africa."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "The country celebrates cultural diversity, with various ethnic groups, each contributing unique traditions, music, dance, and vibrant cultural expressions."
+    }
+  ]
+}
