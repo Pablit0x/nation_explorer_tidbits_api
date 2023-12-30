@@ -1,0 +1,20 @@
+{
+  "name": "Senegal",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Teranga Spirit",
+      "description": "Senegal is known for its 'Teranga' spirit, embodying hospitality and warmth, welcoming visitors with open arms and a rich cultural heritage."
+    },
+    {
+      "id": 2,
+      "title": "Goree Island",
+      "description": "Goree Island, a UNESCO World Heritage Site off the coast of Dakar, was a significant hub for the transatlantic slave trade, now serving as a symbol of remembrance and reconciliation."
+    },
+    {
+      "id": 3,
+      "title": "Musical Diversity",
+      "description": "The country has a diverse music scene, with genres like Mbalax gaining international recognition, and Senegalese musicians like Youssou N'Dour achieving global acclaim."
+    }
+  ]
+}
