@@ -1,0 +1,20 @@
+{
+  "name": "Cambodia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Angkor Temples",
+      "description": "Cambodia is home to the magnificent Angkor Archaeological Park, featuring iconic temples like Angkor Wat, a UNESCO World Heritage Site and a testament to the Khmer Empire's grandeur."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Richness",
+      "description": "Cambodia's cultural heritage spans ancient traditions, traditional Apsara dance, Khmer cuisine, and resilient spirit despite a complex history."
+    },
+    {
+      "id": 3,
+      "title": "Riverside Capital",
+      "description": "Phnom Penh, the capital, is situated along the Mekong River, offering a blend of colonial architecture, bustling markets, and poignant historical sites like the Killing Fields."
+    }
+  ]
+}
