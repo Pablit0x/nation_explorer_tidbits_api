@@ -1,0 +1,20 @@
+{
+  "name": "Japan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Cultural Heritage",
+      "description": "Japan has a rich cultural heritage, from ancient traditions like tea ceremonies and kabuki to modern innovations in technology and fashion."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country boasts natural beauty with serene landscapes, cherry blossoms, historic temples, and majestic mountains like Mount Fuji."
+    },
+    {
+      "id": 3,
+      "title": "Cuisine and Culinary Arts",
+      "description": "Japanese cuisine, including sushi, ramen, and tempura, is globally renowned, emphasizing fresh ingredients and culinary precision."
+    }
+  ]
+}
