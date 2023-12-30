@@ -1,0 +1,20 @@
+{
+  "name": "Åland Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Autonomous Region",
+      "description": "The Åland Islands are an autonomous and demilitarized region of Finland, with Swedish as the primary language and a distinct cultural identity."
+    },
+    {
+      "id": 2,
+      "title": "Maritime Location",
+      "description": "Located in the Baltic Sea, the islands have a maritime heritage and are known for their picturesque landscapes, archipelagoes, and boating opportunities."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "The Åland Islands have a rich cultural heritage with traditions, festivals, and historical sites, including medieval churches and maritime museums."
+    }
+  ]
+}
