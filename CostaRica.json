@@ -1,0 +1,20 @@
+{
+  "name": "Costa Rica",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pioneering Eco-Tourism",
+      "description": "Costa Rica is a pioneer in eco-tourism, known for its abundant biodiversity, lush rainforests, and commitment to sustainability and conservation."
+    },
+    {
+      "id": 2,
+      "title": "Peaceful Nation",
+      "description": "Costa Rica abolished its army in 1949 and remains a peaceful nation, focusing resources on education, healthcare, and preserving its natural heritage."
+    },
+    {
+      "id": 3,
+      "title": "Adventure Paradise",
+      "description": "The country offers thrilling adventures, from zip-lining through forests and exploring volcanoes to surfing along the Pacific and Caribbean coasts."
+    }
+  ]
+}
