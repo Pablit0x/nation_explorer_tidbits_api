@@ -1,0 +1,20 @@
+{
+  "name": "Uruguay",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Progressive Policies",
+      "description": "Uruguay is known for its progressive social policies, including legalizing cannabis, same-sex marriage, and strong social welfare programs."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage, seen in its music, dance (such as the tango and candombe), literature, and vibrant artistic scene."
+    },
+    {
+      "id": 3,
+      "title": "Beaches and Natural Beauty",
+      "description": "Uruguay offers beautiful beaches along the Atlantic coast, charming colonial towns like Colonia del Sacramento, and diverse natural landscapes."
+    }
+  ]
+}
