@@ -1,0 +1,20 @@
+{
+  "name": "Myanmar",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Cultural Heritage",
+      "description": "Myanmar boasts a rich cultural heritage with ancient temples, including the iconic Bagan temples, showcasing its historical significance."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country offers diverse landscapes, from serene lakes like Inle Lake to lush forests and beautiful coastal areas along the Bay of Bengal."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Progress",
+      "description": "Myanmar faces challenges in its journey toward democracy and development, but it holds promise with ongoing social and economic reforms."
+    }
+  ]
+}
