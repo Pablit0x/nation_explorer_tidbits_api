@@ -1,0 +1,20 @@
+{
+  "name": "Kiribati",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pacific Island Nation",
+      "description": "Kiribati is a Pacific Island nation, comprising 33 atolls and reef islands, known for its stunning marine life and coral atolls."
+    },
+    {
+      "id": 2,
+      "title": "Threat from Rising Sea Levels",
+      "description": "The country faces challenges from rising sea levels, making it one of the most vulnerable nations to the impacts of climate change."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Traditions",
+      "description": "Kiribati holds rich cultural traditions, including music, dance, and unique skills like navigating by the stars using traditional methods."
+    }
+  ]
+}
