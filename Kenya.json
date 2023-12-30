@@ -1,0 +1,20 @@
+{
+  "name": "Kenya",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Safari Destination",
+      "description": "Kenya is renowned for its diverse wildlife and is a popular safari destination, home to iconic species like lions, elephants, and giraffes."
+    },
+    {
+      "id": 2,
+      "title": "Natural Landscapes",
+      "description": "The country boasts stunning natural landscapes, from the savannas of Maasai Mara to the Great Rift Valley and Mount Kenya's peaks."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Kenya's cultural heritage includes rich traditions of various ethnic groups, vibrant music, dance, and craftsmanship like Maasai beadwork."
+    }
+  ]
+}
