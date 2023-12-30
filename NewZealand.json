@@ -1,0 +1,20 @@
+{
+  "name": "New Zealand",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Breathtaking Landscapes",
+      "description": "New Zealand offers diverse and breathtaking landscapes, from fjords and mountains to beautiful beaches and lush forests."
+    },
+    {
+      "id": 2,
+      "title": "Maori Culture",
+      "description": "The Maori culture is integral to New Zealand's identity, seen in art, performances like the haka, and the preservation of traditions."
+    },
+    {
+      "id": 3,
+      "title": "Adventure and Outdoor Activities",
+      "description": "The country is a haven for adventure seekers, offering activities like hiking, bungee jumping, skiing, and exploring geothermal areas."
+    }
+  ]
+}
