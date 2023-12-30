@@ -1,0 +1,20 @@
+{
+  "name": "Lesotho",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mountain Kingdom",
+      "description": "Lesotho is known as the 'Mountain Kingdom' for its high-altitude terrain, boasting stunning mountain landscapes and hiking opportunities."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage, seen in its traditional rondavel huts, arts and crafts, and vibrant Basotho music and dance."
+    },
+    {
+      "id": 3,
+      "title": "Unique Geography",
+      "description": "Entirely surrounded by South Africa, Lesotho is one of the few countries globally to be entirely situated above 1,000 meters in elevation."
+    }
+  ]
+}
