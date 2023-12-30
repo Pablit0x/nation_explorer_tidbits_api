@@ -1,0 +1,20 @@
+{
+  "name": "Guernsey",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Channel Island Charm",
+      "description": "Guernsey is one of the Channel Islands, known for its charming landscapes, beautiful cliffs, sandy beaches, and rich historical sites."
+    },
+    {
+      "id": 2,
+      "title": "Intriguing History",
+      "description": "The island has an intriguing history, from Neolithic sites to German occupation during World War II, reflected in its museums and fortifications."
+    },
+    {
+      "id": 3,
+      "title": "Unique Legal System",
+      "description": "Guernsey operates under its unique legal system, known as Norman customary law, blending British influence with traditional island customs."
+    }
+  ]
+}
