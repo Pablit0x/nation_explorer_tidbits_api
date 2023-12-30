@@ -1,0 +1,20 @@
+{
+  "name": "Niue",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pacific Island Nation",
+      "description": "Niue is a small Pacific island nation known for its coral reefs, limestone cliffs, and crystal-clear waters attracting divers and nature lovers."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The culture of Niue is rich, with a strong Polynesian influence seen in traditional dances, music, intricate crafts, and oral storytelling."
+    },
+    {
+      "id": 3,
+      "title": "Conservation Efforts",
+      "description": "Niue is focused on conservation, implementing initiatives to protect its unique biodiversity, including its marine and terrestrial ecosystems."
+    }
+  ]
+}
