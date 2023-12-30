@@ -1,0 +1,20 @@
+{
+  "name": "Kyrgyzstan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mountainous Landscapes",
+      "description": "Kyrgyzstan is known for its mountainous landscapes, including the Tien Shan range, providing stunning vistas and trekking opportunities."
+    },
+    {
+      "id": 2,
+      "title": "Nomadic Heritage",
+      "description": "The country has a rich nomadic heritage, reflected in traditions, yurt living, and the hospitality of the Kyrgyz people."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Kyrgyzstan boasts cultural diversity with influences from various ethnic groups, seen in its music, dance, and vibrant traditional festivals."
+    }
+  ]
+}
