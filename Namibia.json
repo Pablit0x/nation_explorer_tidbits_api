@@ -1,0 +1,20 @@
+{
+  "name": "Namibia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Stunning Landscapes",
+      "description": "Namibia is known for its stunning landscapes, including the Namib Desert, Etosha National Park, and the Fish River Canyon."
+    },
+    {
+      "id": 2,
+      "title": "Rich Wildlife",
+      "description": "The country boasts diverse wildlife, with opportunities for safari experiences and conservation efforts, including for desert-adapted species."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Namibia's diverse cultures, including the Himba and San people, contribute to its rich cultural tapestry and unique traditions."
+    }
+  ]
+}
