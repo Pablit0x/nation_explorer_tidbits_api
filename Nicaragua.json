@@ -1,0 +1,20 @@
+{
+  "name": "Nicaragua",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Volcanoes and Lakes",
+      "description": "Nicaragua is known for its stunning landscapes, with numerous volcanoes, including Momotombo, and picturesque lakes like Lake Nicaragua."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "The country has a rich cultural heritage, with influences from indigenous communities, Spanish colonialism, and diverse artistic expressions."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Natural Disasters",
+      "description": "Nicaragua faces challenges like poverty and occasional natural disasters but continues efforts in development and preserving its natural beauty."
+    }
+  ]
+}
