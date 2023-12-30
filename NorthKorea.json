@@ -1,0 +1,20 @@
+{
+  "name": "North Korea",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Isolation and Secrecy",
+      "description": "North Korea is known for its isolation from the international community, strict governance, and limited access to information."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Displays",
+      "description": "The country showcases its culture through mass games, monuments like the Juche Tower, and preserved historical sites like Kaesong."
+    },
+    {
+      "id": 3,
+      "title": "Political Dynamics",
+      "description": "The political landscape is dominated by the ruling Kim family, shaping policies and relations with other countries."
+    }
+  ]
+}
