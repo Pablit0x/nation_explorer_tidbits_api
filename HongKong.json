@@ -1,17 +1,20 @@
-[
-  {
-    "id": 1,
-    "title": "Global Financial Hub",
-    "description": "Hong Kong serves as a major global financial hub, known for its skyscrapers, bustling business districts, and robust financial services."
-  },
-  {
-    "id": 2,
-    "title": "Cultural Fusion",
-    "description": "The city boasts a vibrant cultural scene, blending Eastern and Western influences, seen in its cuisine, festivals, and dynamic arts and music."
-  },
-  {
-    "id": 3,
-    "title": "Stunning Skyline",
-    "description": "Hong Kong's skyline is iconic, with the Victoria Harbour offering breathtaking views of skyscrapers, creating a stunning visual spectacle."
-  }
-]
+{
+  "name": "Hong Kong",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Global Financial Hub",
+      "description": "Hong Kong serves as a major global financial hub, known for its skyscrapers, bustling business districts, and robust financial services."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Fusion",
+      "description": "The city boasts a vibrant cultural scene, blending Eastern and Western influences, seen in its cuisine, festivals, and dynamic arts and music."
+    },
+    {
+      "id": 3,
+      "title": "Stunning Skyline",
+      "description": "Hong Kong's skyline is iconic, with the Victoria Harbour offering breathtaking views of skyscrapers, creating a stunning visual spectacle."
+    }
+  ]
+}
