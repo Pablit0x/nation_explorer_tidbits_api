@@ -1,0 +1,20 @@
+{
+  "name": "Philippines",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Archipelago of Islands",
+      "description": "The Philippines is an archipelago of over 7,000 islands known for its stunning beaches, diverse landscapes, and marine biodiversity."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Melting Pot",
+      "description": "The country is a cultural melting pot, blending influences from indigenous tribes, Spanish colonial history, and Asian traditions."
+    },
+    {
+      "id": 3,
+      "title": "Warm Hospitality",
+      "description": "Filipinos are known for their warm hospitality and strong family values, contributing to the country's welcoming atmosphere."
+    }
+  ]
+}
