@@ -1,0 +1,20 @@
+{
+  "name": "Romania",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich History and Legends",
+      "description": "Romania is rich in history and folklore, with medieval castles like Bran Castle and legends of Dracula captivating visitors."
+    },
+    {
+      "id": 2,
+      "title": "Natural Landscapes",
+      "description": "The country boasts diverse natural landscapes, from the Carpathian Mountains to the Danube Delta, offering scenic beauty and wildlife."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Traditions",
+      "description": "Romania preserves cultural traditions like folk dances, pottery, and traditional cuisine, reflecting its heritage and rural life."
+    }
+  ]
+}
