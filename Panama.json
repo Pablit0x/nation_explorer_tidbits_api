@@ -1,0 +1,20 @@
+{
+  "name": "Panama",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Panama Canal",
+      "description": "Panama is globally recognized for the Panama Canal, a marvel of engineering connecting the Atlantic and Pacific Oceans."
+    },
+    {
+      "id": 2,
+      "title": "Biodiversity",
+      "description": "The country boasts rich biodiversity, with rainforests, diverse wildlife, and opportunities for eco-tourism and birdwatching."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Fusion",
+      "description": "Panama's culture is a fusion of indigenous, African, and Spanish influences, seen in music, dance, cuisine, and traditional attire."
+    }
+  ]
+}
