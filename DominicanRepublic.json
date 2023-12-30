@@ -1,0 +1,20 @@
+{
+  "name": "Dominican Republic",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Colonial Heritage",
+      "description": "The Dominican Republic boasts a rich colonial heritage, with historic sites like Santo Domingo's Zona Colonial, the first European settlement in the Americas."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country features diverse landscapes, from beautiful beaches along the Caribbean coast to mountainous regions like the Cordillera Central."
+    },
+    {
+      "id": 3,
+      "title": "Merengue and Bachata",
+      "description": "Merengue and Bachata music and dance originated in the Dominican Republic, reflecting the country's vibrant culture and rhythms."
+    }
+  ]
+}
