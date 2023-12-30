@@ -1,0 +1,20 @@
+{
+  "name": "Sudan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Nile River",
+      "description": "Sudan is home to significant portions of the Nile River, including the meeting point of the Blue Nile and White Nile in Khartoum, a historically important city."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Cultures",
+      "description": "The country boasts a diverse cultural landscape with various ethnic groups, each contributing to Sudan's cultural richness through language, traditions, and customs."
+    },
+    {
+      "id": 3,
+      "title": "Archaeological Sites",
+      "description": "Sudan has numerous archaeological sites like the ancient city of Meroë, known for its pyramids, providing insights into ancient Nubian civilizations."
+    }
+  ]
+}
