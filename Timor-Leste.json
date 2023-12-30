@@ -1,0 +1,20 @@
+{
+  "name": "Timor-Leste",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Independence Struggle",
+      "description": "Timor-Leste gained independence in 2002 after a long struggle for independence from Indonesian rule, marking a significant chapter in its history."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country has a diverse cultural landscape with various ethnic groups, each contributing unique languages, traditions, and customs to its rich heritage."
+    },
+    {
+      "id": 3,
+      "title": "Natural Beauty",
+      "description": "Timor-Leste offers stunning landscapes, from pristine beaches along the coast to rugged mountains and lush forests, attracting nature enthusiasts and adventurers."
+    }
+  ]
+}
