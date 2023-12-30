@@ -1,0 +1,20 @@
+{
+  "name": "South Korea",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Technological Innovation",
+      "description": "South Korea is globally recognized for its technological advancements, including leading brands in electronics, cars, and its fast internet infrastructure."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Phenomena",
+      "description": "The country has a vibrant pop culture, known for K-pop music, Korean dramas, and a booming entertainment industry that has gained immense popularity worldwide."
+    },
+    {
+      "id": 3,
+      "title": "Rich Heritage",
+      "description": "South Korea embraces a rich cultural heritage seen in traditions like Hanbok clothing, traditional tea ceremonies, and historic palaces like Gyeongbokgung."
+    }
+  ]
+}
