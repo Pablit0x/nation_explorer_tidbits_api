@@ -1,0 +1,20 @@
+{
+  "name": "Svalbard and Jan Mayen",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Arctic Wilderness",
+      "description": "Svalbard, an Arctic archipelago, is known for its vast wilderness, glaciers, and unique wildlife like polar bears, while Jan Mayen is a remote volcanic island."
+    },
+    {
+      "id": 2,
+      "title": "Polar Night and Midnight Sun",
+      "description": "These regions experience extreme light variations, with polar nights lasting for weeks in winter and the midnight sun shining for continuous days in summer."
+    },
+    {
+      "id": 3,
+      "title": "Limited Human Population",
+      "description": "Svalbard has settlements, but strict regulations exist to preserve the environment. Jan Mayen has a Norwegian weather station, with few residents."
+    }
+  ]
+}
