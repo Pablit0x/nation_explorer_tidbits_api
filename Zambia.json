@@ -1,0 +1,20 @@
+{
+  "name": "Zambia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Wonders",
+      "description": "Zambia is known for its stunning natural attractions, including the Victoria Falls, one of the largest and most famous waterfalls in the world."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Wildlife",
+      "description": "The country boasts diverse wildlife, with national parks like South Luangwa and Kafue offering excellent opportunities for safaris and animal sightings."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Zambia has a diverse cultural landscape with over 70 ethnic groups, each contributing unique traditions, music, dances, and vibrant artwork."
+    }
+  ]
+}
