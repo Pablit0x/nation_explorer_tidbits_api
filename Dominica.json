@@ -1,0 +1,20 @@
+{
+  "name": "Dominica",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Nature Island",
+      "description": "Dominica is known as the 'Nature Island of the Caribbean,' boasting lush rainforests, volcanic landscapes, hot springs, and stunning waterfalls."
+    },
+    {
+      "id": 2,
+      "title": "Rich Biodiversity",
+      "description": "The island is home to diverse flora and fauna, including the endemic Sisserou Parrot and thriving marine life, making it a paradise for nature enthusiasts."
+    },
+    {
+      "id": 3,
+      "title": "Resilience and Culture",
+      "description": "Dominica's culture is marked by resilience, seen in traditions like Creole music, vibrant Carnival celebrations, and the warmth of its people."
+    }
+  ]
+}
