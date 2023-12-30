@@ -1,0 +1,20 @@
+{
+  "name": "Luxembourg",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Multilingual and Multicultural",
+      "description": "Luxembourg is a multilingual and multicultural country, blending influences from French, German, and Luxembourgish traditions."
+    },
+    {
+      "id": 2,
+      "title": "Financial Hub",
+      "description": "The country is a prominent financial hub, housing several European Union institutions and global financial and banking entities."
+    },
+    {
+      "id": 3,
+      "title": "Picturesque Landscapes",
+      "description": "Luxembourg offers picturesque landscapes with charming villages, historic castles, and the stunning Ardennes forest in the north."
+    }
+  ]
+}
