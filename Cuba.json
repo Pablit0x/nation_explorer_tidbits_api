@@ -1,0 +1,20 @@
+{
+  "name": "Cuba",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vibrant Culture",
+      "description": "Cuba is renowned for its vibrant culture, including salsa music, Afro-Cuban rhythms, colorful vintage cars, and a rich tradition in art, literature, and dance."
+    },
+    {
+      "id": 2,
+      "title": "Colonial Architecture",
+      "description": "The country boasts stunning colonial architecture, particularly in cities like Havana and Trinidad, offering a glimpse into its Spanish colonial history."
+    },
+    {
+      "id": 3,
+      "title": "Natural Beauty",
+      "description": "Cuba features diverse natural beauty, from pristine beaches along the Varadero coast to lush tobacco fields in Viñales, showcasing its rich biodiversity."
+    }
+  ]
+}
