@@ -1,0 +1,20 @@
+{
+  "name": "Cook Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Polynesian Culture",
+      "description": "The Cook Islands boast a rich Polynesian culture, evident in traditional dance, music, intricate crafts like tivaevae (quilting), and warm hospitality."
+    },
+    {
+      "id": 2,
+      "title": "Stunning Scenery",
+      "description": "The islands feature stunning scenery with turquoise lagoons, coral reefs, and lush green mountains, offering picturesque landscapes for visitors."
+    },
+    {
+      "id": 3,
+      "title": "Self-Governing Nation",
+      "description": "The Cook Islands are a self-governing nation in free association with New Zealand, maintaining its own government while benefiting from close ties."
+    }
+  ]
+}
