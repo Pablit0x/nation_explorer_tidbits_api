@@ -1,0 +1,20 @@
+{
+  "name": "Cameroon",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Cameroon boasts rich cultural diversity with over 250 ethnic groups, each contributing unique traditions, languages, music, and vibrant festivals."
+    },
+    {
+      "id": 2,
+      "title": "Mount Cameroon",
+      "description": "Mount Cameroon, an active volcano and Africa's highest peak in the region, offers breathtaking hikes and is a significant symbol in Cameroonian folklore."
+    },
+    {
+      "id": 3,
+      "title": "Wildlife and Nature Reserves",
+      "description": "The country is home to diverse ecosystems, from savannahs to rainforests, housing wildlife in national parks like Waza National Park and Korup National Park."
+    }
+  ]
+}
