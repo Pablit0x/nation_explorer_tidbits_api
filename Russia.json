@@ -1,0 +1,20 @@
+{
+  "name": "Russia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vast Landmass",
+      "description": "Russia is the largest country globally, spanning two continents, Europe and Asia, and showcasing diverse landscapes and cultures."
+    },
+    {
+      "id": 2,
+      "title": "Rich History and Architecture",
+      "description": "The country boasts a rich history seen in iconic landmarks like the Kremlin, Hermitage Museum, and the ancient city of St. Petersburg."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Contributions",
+      "description": "Russia has made significant cultural contributions in literature, music, ballet, and science, leaving a lasting impact on global culture."
+    }
+  ]
+}
