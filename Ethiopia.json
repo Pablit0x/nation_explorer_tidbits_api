@@ -1,0 +1,20 @@
+{
+  "name": "Ethiopia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cradle of Humanity",
+      "description": "Ethiopia is often regarded as the 'Cradle of Humanity' due to the discovery of some of the earliest human ancestors, including 'Lucy,' a 3.2 million-year-old skeleton."
+    },
+    {
+      "id": 2,
+      "title": "Unique Calendar",
+      "description": "Ethiopia follows its own unique calendar, with 13 months and New Year (Enkutatash) falling in September, celebrating with vibrant cultural festivities."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "description": "The country boasts diverse landscapes, from the lush highlands of the Simien Mountains to the otherworldly Danakil Depression, offering a range of natural wonders."
+    }
+  ]
+}
