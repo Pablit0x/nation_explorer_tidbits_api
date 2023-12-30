@@ -1,0 +1,20 @@
+{
+  "name": "Comoros",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Island Biodiversity",
+      "description": "Comoros, known as the 'Perfumed Islands,' hosts rich biodiversity, including unique flora and fauna, with a significant portion of its wildlife found nowhere else on Earth."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Blend",
+      "description": "The islands blend African, Arab, and French influences, showcased in traditional music, dance, and the fusion of cultures seen in daily life."
+    },
+    {
+      "id": 3,
+      "title": "Volcanic Landscape",
+      "description": "Comoros is marked by volcanic landscapes, including Mount Karthala on Grande Comore, offering opportunities for hiking and exploration."
+    }
+  ]
+}
