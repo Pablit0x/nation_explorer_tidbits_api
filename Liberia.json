@@ -1,0 +1,20 @@
+{
+  "name": "Liberia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Founded by Freed Slaves",
+      "description": "Liberia was founded by freed American slaves in the 19th century, and its flag and constitution were inspired by the United States."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country offers natural beauty with lush rainforests, diverse wildlife in national parks, and stunning coastal areas along the Atlantic Ocean."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Progress",
+      "description": "Liberia has faced challenges including civil wars but has made strides in recovery, striving for stability, and fostering economic development."
+    }
+  ]
+}
