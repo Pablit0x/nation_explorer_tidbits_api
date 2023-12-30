@@ -1,0 +1,20 @@
+{
+  "name": "Saudi Arabia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Archaeological Sites",
+      "description": "Saudi Arabia is home to several ancient archaeological sites, including Madain Saleh, a UNESCO World Heritage Site featuring elaborate Nabatean tombs akin to Petra in Jordan."
+    },
+    {
+      "id": 2,
+      "title": "Islamic Holy Sites",
+      "description": "The country hosts the Islamic holy cities of Mecca and Medina, attracting millions of pilgrims annually for Hajj and Umrah, significant religious pilgrimages."
+    },
+    {
+      "id": 3,
+      "title": "Vision 2030",
+      "description": "Saudi Arabia is pursuing Vision 2030, a plan aimed at diversifying its economy, reducing dependency on oil, and promoting social and cultural reforms."
+    }
+  ]
+}
