@@ -1,0 +1,20 @@
+{
+  "name": "Italy",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Artistic Heritage",
+      "description": "Italy boasts a rich artistic heritage, with iconic landmarks like the Colosseum, Michelangelo's David, and the stunning art of the Renaissance."
+    },
+    {
+      "id": 2,
+      "title": "Culinary Delights",
+      "description": "The country is renowned for its culinary delights, including pasta, pizza, gelato, and a wide array of regional dishes and wines."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Italy showcases cultural diversity with varied traditions, dialects, and historical influences that contribute to its vibrant and dynamic society."
+    }
+  ]
+}
