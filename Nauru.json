@@ -1,0 +1,20 @@
+{
+  "name": "Nauru",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Small Island Nation",
+      "description": "Nauru is one of the world's smallest independent nations, located in the Pacific Ocean, known for its phosphate mining history."
+    },
+    {
+      "id": 2,
+      "title": "Environmental Challenges",
+      "description": "The country faces environmental challenges due to past phosphate mining, affecting its land and leading to ongoing sustainability efforts."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Nauru's cultural heritage is preserved through traditional music, dances, and art, reflecting its Polynesian and Micronesian influences."
+    }
+  ]
+}
