@@ -1,0 +1,20 @@
+{
+  "name": "Qatar",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Modern Skyline",
+      "description": "Qatar features a modern skyline, with architectural marvels like the futuristic skyline of Doha, including the iconic Museum of Islamic Art."
+    },
+    {
+      "id": 2,
+      "title": "Rich Culture",
+      "description": "The country holds onto its rich culture through traditions like falconry, Arabian horses, and a strong emphasis on hospitality."
+    },
+    {
+      "id": 3,
+      "title": "Economic Prosperity",
+      "description": "Qatar's prosperity is driven by its oil and gas reserves, allowing for impressive infrastructure development and a high standard of living."
+    }
+  ]
+}
