@@ -1,0 +1,20 @@
+{
+  "name": "French Guiana",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Biodiversity Haven",
+      "description": "French Guiana is a haven for biodiversity, hosting the Guiana Amazonian Park, a UNESCO World Heritage Site, teeming with diverse flora and fauna."
+    },
+    {
+      "id": 2,
+      "title": "Space Exploration",
+      "description": "The Guiana Space Centre, Europe's spaceport, is located in French Guiana, launching satellites and spacecraft, playing a pivotal role in space exploration."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Melting Pot",
+      "description": "The region is a cultural melting pot, with influences from indigenous peoples, Creole traditions, and a blend of European, African, and Asian heritages."
+    }
+  ]
+}
