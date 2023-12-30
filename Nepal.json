@@ -1,0 +1,20 @@
+{
+  "name": "Nepal",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Himalayan Beauty",
+      "description": "Nepal is known for its stunning Himalayan landscapes, including Mount Everest, and offers trekking adventures and breathtaking views."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country is culturally diverse, with Hindu and Buddhist traditions, ancient temples, and a rich tapestry of ethnic groups and languages."
+    },
+    {
+      "id": 3,
+      "title": "Spirituality and Hospitality",
+      "description": "Nepal's spirituality is evident in religious practices and festivals, and the warmth and hospitality of its people make visitors feel welcome."
+    }
+  ]
+}
