@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Oil Reserves",
+      "description": "Kuwait possesses significant oil reserves, playing a crucial role in its economy and global oil production."
+    },
+    {
+      "id": 2,
+      "title": "Rich History and Heritage",
+      "description": "The country has a rich history, seen in its ancient archaeological sites, traditional markets (souks), and historic landmarks."
+    },
+    {
+      "id": 3,
+      "title": "Modern Skyline",
+      "description": "Kuwait City boasts a modern skyline with impressive architecture, including the Kuwait Towers and contemporary shopping complexes."
+    }
+  ]
+}
