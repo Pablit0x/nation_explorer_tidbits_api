@@ -1,0 +1,20 @@
+{
+  "name": "Venezuela",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Wonders",
+      "description": "Venezuela is home to stunning natural attractions, including Angel Falls, the world's highest waterfall, and the diverse landscapes of the Amazon rainforest and the Andes Mountains."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country boasts a diverse cultural heritage influenced by Indigenous, African, and European traditions, seen in its music, dance, art, and cuisine."
+    },
+    {
+      "id": 3,
+      "title": "Oil Reserves",
+      "description": "Venezuela holds some of the world's largest oil reserves, playing a significant role in its economy, although facing challenges related to its oil industry."
+    }
+  ]
+}
