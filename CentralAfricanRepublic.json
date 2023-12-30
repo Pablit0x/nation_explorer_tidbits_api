@@ -1,0 +1,20 @@
+{
+  "name": "Central African Republic",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Biodiversity",
+      "description": "The Central African Republic is home to diverse ecosystems and wildlife, including national parks like Dzanga-Ndoki, known for forest elephants, gorillas, and diverse bird species."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage with diverse ethnic groups, each contributing unique traditions, music, dances, and artisanal crafts."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Resilience",
+      "description": "Despite challenges, including political instability and conflict, the people of CAR show resilience, preserving their culture and striving for stability and progress."
+    }
+  ]
+}
