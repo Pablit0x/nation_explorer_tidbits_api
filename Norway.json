@@ -1,0 +1,20 @@
+{
+  "name": "Norway",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Fjords and Scenic Landscapes",
+      "description": "Norway is renowned for its stunning fjords, picturesque landscapes, Northern Lights, and outdoor activities like hiking and skiing."
+    },
+    {
+      "id": 2,
+      "title": "Viking Heritage",
+      "description": "The country has a rich Viking heritage, reflected in museums, historical sites, and festivals celebrating its Norse history."
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Living",
+      "description": "Norway is known for its focus on sustainability, embracing renewable energy, environmental policies, and a high quality of life."
+    }
+  ]
+}
