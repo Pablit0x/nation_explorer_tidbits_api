@@ -1,0 +1,20 @@
+{
+  "name": "Morocco",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Landscapes",
+      "description": "Morocco offers diverse landscapes, from the Sahara Desert to the Atlas Mountains and beautiful coastal areas along the Atlantic and Mediterranean."
+    },
+    {
+      "id": 2,
+      "title": "Rich Culture and History",
+      "description": "The country boasts a rich cultural heritage seen in its ancient cities like Marrakech, Fez, and Chefchaouen, and vibrant traditional arts."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Moroccan cuisine is renowned for its flavors, with dishes like tagine, couscous, and mint tea, reflecting a fusion of Mediterranean flavors."
+    }
+  ]
+}
