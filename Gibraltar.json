@@ -1,0 +1,20 @@
+{
+  "name": "Gibraltar",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Strategic Location",
+      "description": "Gibraltar is strategically located at the southern tip of the Iberian Peninsula, serving as a vital naval base and a key point for maritime trade."
+    },
+    {
+      "id": 2,
+      "title": "The Rock of Gibraltar",
+      "description": "The iconic Rock of Gibraltar is a prominent feature, offering stunning views and housing various caves, including the famous St. Michael's Cave."
+    },
+    {
+      "id": 3,
+      "title": "British Territory",
+      "description": "As a British Overseas Territory, Gibraltar has a blend of British and Spanish influences, seen in its culture, language, and diverse population."
+    }
+  ]
+}
