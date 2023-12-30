@@ -1,0 +1,20 @@
+{
+  "name": "Vietnam",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich History",
+      "description": "Vietnam has a rich history shaped by various dynasties, colonization, and wars, evident in its ancient temples, historic sites, and remnants of the Vietnam War."
+    },
+    {
+      "id": 2,
+      "title": "Culinary Delights",
+      "description": "The country is renowned for its diverse and flavorful cuisine, featuring dishes like pho, banh mi, and fresh spring rolls, captivating food enthusiasts worldwide."
+    },
+    {
+      "id": 3,
+      "title": "Breathtaking Landscapes",
+      "description": "Vietnam offers diverse landscapes, from the bustling cities of Hanoi and Ho Chi Minh City to serene rice paddies, beautiful beaches, and limestone karsts in Halong Bay."
+    }
+  ]
+}
