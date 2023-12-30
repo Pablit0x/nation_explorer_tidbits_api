@@ -1,0 +1,20 @@
+{
+  "name": "Caribbean Netherlands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Island Diversity",
+      "description": "The Caribbean Netherlands comprises three islands—Bonaire, Sint Eustatius, and Saba—each with its own distinct culture, landscapes, and charm."
+    },
+    {
+      "id": 2,
+      "title": "Marine Biodiversity",
+      "description": "These islands are renowned for their stunning marine life and coral reefs, making them ideal destinations for diving, snorkeling, and nature enthusiasts."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Communities",
+      "description": "The Caribbean Netherlands is home to diverse communities, with influences from European, African, and indigenous cultures, contributing to a vibrant local atmosphere."
+    }
+  ]
+}
