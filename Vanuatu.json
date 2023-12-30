@@ -1,0 +1,20 @@
+{
+  "name": "Vanuatu",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Vanuatu is known for its diverse culture, with over 80 distinct ethnic groups, each contributing unique customs, languages, and traditional practices."
+    },
+    {
+      "id": 2,
+      "title": "Volcanic Archipelago",
+      "description": "The country is an archipelago of volcanic islands, offering dramatic landscapes, active volcanoes like Mount Yasur on Tanna, and pristine natural beauty."
+    },
+    {
+      "id": 3,
+      "title": "Customary Land Ownership",
+      "description": "Vanuatu holds a unique land tenure system where much of the land is owned by indigenous communities, preserving traditional land practices and customs."
+    }
+  ]
+}
