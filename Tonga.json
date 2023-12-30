@@ -1,0 +1,20 @@
+{
+  "name": "Tonga",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Kingdom of Tonga",
+      "description": "Tonga is the only remaining monarchy in the Pacific and is often referred to as the 'Friendly Islands' due to the warm hospitality of its people."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage, expressed through dance, music, traditional crafts, and ceremonies, preserving Polynesian traditions."
+    },
+    {
+      "id": 3,
+      "title": "Scenic Beauty",
+      "description": "Tonga's scenic beauty includes pristine beaches, coral reefs, and stunning landscapes. The Ha'apai and Vava'u islands offer incredible diving and whale-watching opportunities."
+    }
+  ]
+}
