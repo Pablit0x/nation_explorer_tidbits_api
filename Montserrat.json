@@ -1,0 +1,20 @@
+{
+  "name": "Montserrat",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Volcanic Island",
+      "description": "Montserrat is a volcanic island in the Caribbean, known for the Soufrière Hills volcano eruption in 1995, shaping its recent history."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Blend",
+      "description": "The island has a cultural blend influenced by African, Irish, and British heritage, reflected in its music, festivals, and cuisine."
+    },
+    {
+      "id": 3,
+      "title": "Recovery and Resilience",
+      "description": "Montserrat is in a phase of recovery post-eruption, with ongoing efforts to rebuild and revitalize, showcasing the islanders' resilience."
+    }
+  ]
+}
