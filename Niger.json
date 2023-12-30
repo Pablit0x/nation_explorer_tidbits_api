@@ -1,0 +1,20 @@
+{
+  "name": "Niger",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Saharan and Sahelian Landscapes",
+      "description": "Niger features vast Saharan and Sahelian landscapes, with the Sahara Desert to the north and the Sahel region to the south."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country is home to diverse ethnic groups, each with unique traditions, music, art, and ceremonies that contribute to Niger's culture."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Development",
+      "description": "Niger faces challenges like food insecurity and desertification but strives for economic development and social progress."
+    }
+  ]
+}
