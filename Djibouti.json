@@ -1,0 +1,20 @@
+{
+  "name": "Djibouti",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Strategic Location",
+      "description": "Djibouti is strategically located at the crossroads of Africa, the Middle East, and Asia, serving as a key maritime and logistics hub."
+    },
+    {
+      "id": 2,
+      "title": "Geological Wonders",
+      "description": "The country features unique geological formations, including the otherworldly landscapes of Lac Assal, one of the lowest points on Earth."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Djibouti embraces cultural diversity, influenced by Afar, Somali, Arab, and French heritage, reflected in traditions, languages, and vibrant markets."
+    }
+  ]
+}
