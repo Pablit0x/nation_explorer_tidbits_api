@@ -1,0 +1,20 @@
+{
+  "name": "France",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Art and Culture Hub",
+      "description": "France is an art and culture hub, known for its iconic landmarks like the Eiffel Tower, Louvre Museum, rich history in literature, art, and culinary excellence."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country offers diverse landscapes, from the romantic countryside of Provence to the stunning French Riviera and the majestic Alps in the east."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "France is celebrated for its gastronomy, with world-renowned cuisine, fine wines, exquisite pastries, and a culture that reveres food and dining experiences."
+    }
+  ]
+}
