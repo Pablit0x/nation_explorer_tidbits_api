@@ -1,0 +1,20 @@
+{
+  "name": "Iraq",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mesopotamian Civilization",
+      "description": "Iraq is home to ancient Mesopotamia, considered the cradle of civilization, where writing, agriculture, and early cities emerged."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "The country has a rich cultural heritage with historic sites like Babylon, showcasing architectural marvels and ancient historical records."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "description": "Iraq boasts diverse landscapes, from fertile plains by the Tigris and Euphrates rivers to deserts, providing a range of ecosystems."
+    }
+  ]
+}
