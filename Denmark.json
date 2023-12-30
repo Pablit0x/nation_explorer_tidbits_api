@@ -1,0 +1,20 @@
+{
+  "name": "Denmark",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Hygge Lifestyle",
+      "description": "Denmark is known for its 'hygge' lifestyle, emphasizing coziness, comfort, and well-being, often experienced through warm atmospheres and quality time with loved ones."
+    },
+    {
+      "id": 2,
+      "title": "Design Excellence",
+      "description": "The country is renowned for its design excellence, seen in modern architecture, sleek furniture, and functional yet stylish innovations."
+    },
+    {
+      "id": 3,
+      "title": "Bicycle-Friendly Culture",
+      "description": "Denmark embraces a bicycle-friendly culture, with well-designed cycling infrastructure, making it a popular and efficient mode of transportation."
+    }
+  ]
+}
