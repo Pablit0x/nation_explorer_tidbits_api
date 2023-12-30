@@ -1,0 +1,20 @@
+{
+  "name": "Vatican City",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Smallest Country",
+      "description": "Vatican City is the smallest independent state in the world, both in size and population, housing significant religious and cultural landmarks."
+    },
+    {
+      "id": 2,
+      "title": "Spiritual Center",
+      "description": "As the spiritual center of the Roman Catholic Church, Vatican City is home to St. Peter's Basilica, the Sistine Chapel, and the Vatican Museums."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Treasures",
+      "description": "The city boasts a wealth of art, including masterpieces by Michelangelo, Raphael, and other renowned artists, making it a destination for art and history enthusiasts."
+    }
+  ]
+}
