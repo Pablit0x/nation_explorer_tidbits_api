@@ -1,0 +1,20 @@
+{
+  "name": "Greece",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Civilization",
+      "description": "Greece is the birthplace of Western civilization, renowned for its ancient contributions to philosophy, democracy, art, and the Olympic Games."
+    },
+    {
+      "id": 2,
+      "title": "Stunning Islands",
+      "description": "The country is home to numerous stunning islands in the Aegean and Ionian Seas, each offering unique beauty, history, and picturesque landscapes."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Greek cuisine is celebrated globally, featuring delicious dishes like moussaka, souvlaki, and baklava, accompanied by rich flavors and fresh ingredients."
+    }
+  ]
+}
