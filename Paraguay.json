@@ -1,0 +1,20 @@
+{
+  "name": "Paraguay",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Guarani Culture",
+      "description": "Paraguay embraces its Guarani culture, seen in language, music like polka and harp melodies, and traditional arts and crafts."
+    },
+    {
+      "id": 2,
+      "title": "Natural Wonders",
+      "description": "The country features natural wonders like the Pantanal, Jesuit missions, and the Gran Chaco, offering diverse wildlife and landscapes."
+    },
+    {
+      "id": 3,
+      "title": "Yerba Mate Tradition",
+      "description": "Paraguayans have a strong yerba mate tradition, with the herbal drink being an integral part of social gatherings and daily life."
+    }
+  ]
+}
