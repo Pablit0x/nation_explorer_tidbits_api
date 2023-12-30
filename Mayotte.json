@@ -1,0 +1,20 @@
+{
+  "name": "Mayotte",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "French Overseas Department",
+      "description": "Mayotte is an overseas department and region of France, known for its beautiful beaches and rich marine biodiversity."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The island has a diverse population with influences from Comorian, French, and other cultures, reflected in its traditions and customs."
+    },
+    {
+      "id": 3,
+      "title": "Natural Wonders",
+      "description": "Mayotte offers natural wonders like coral reefs, lagoons, and volcanic landscapes, attracting visitors for diving and ecotourism."
+    }
+  ]
+}
