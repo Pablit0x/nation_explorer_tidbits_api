@@ -1,0 +1,20 @@
+{
+  "name": "Yemen",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Richness",
+      "description": "Yemen has a rich history, with ancient cities like Sana'a boasting unique architecture and being a UNESCO World Heritage site."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a diverse cultural heritage, reflected in its music, dance, cuisine, and traditions, shaped by Arab, African, and Persian influences."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Conflict",
+      "description": "Yemen has faced significant challenges, including political instability, humanitarian crises, and conflict, impacting its people and economy."
+    }
+  ]
+}
