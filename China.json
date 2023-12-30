@@ -1,0 +1,20 @@
+{
+  "name": "China",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Great Wall",
+      "description": "China is home to the Great Wall, an iconic symbol of ancient engineering and a UNESCO World Heritage Site, stretching thousands of kilometers across the country."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "China boasts rich cultural diversity, with 56 recognized ethnic groups, each contributing unique traditions, languages, art forms, and culinary delights."
+    },
+    {
+      "id": 3,
+      "title": "Innovative Technology",
+      "description": "China is at the forefront of technological advancements, with innovations in fields like artificial intelligence, renewable energy, and high-speed railways."
+    }
+  ]
+}
