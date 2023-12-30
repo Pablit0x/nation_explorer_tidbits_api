@@ -1,0 +1,20 @@
+{
+  "name": "Tajikistan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pamir Mountains",
+      "description": "Tajikistan is home to a significant portion of the Pamir Mountains, often referred to as the 'Roof of the World,' offering stunning landscapes and challenging treks."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage shaped by Persian, Islamic, and Soviet influences, reflected in its arts, music, dance, and traditional crafts."
+    },
+    {
+      "id": 3,
+      "title": "Ancient Silk Road",
+      "description": "Tajikistan was a part of the ancient Silk Road, hosting historic trade routes and archaeological sites like Sarazm, recognized as a UNESCO World Heritage Site."
+    }
+  ]
+}
