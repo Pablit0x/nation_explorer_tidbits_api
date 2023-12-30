@@ -1,0 +1,20 @@
+{
+  "name": "Chad",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Lake Chad",
+      "description": "Chad is home to Lake Chad, a vital water source for multiple countries in the region, facing environmental challenges but holding cultural and ecological significance."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "Chad is rich in cultural diversity, with over 200 ethnic groups, each contributing to the country's unique traditions, languages, and crafts."
+    },
+    {
+      "id": 3,
+      "title": "Saharan and Sub-Saharan",
+      "description": "Chad's landscape spans Saharan desert regions in the north to sub-Saharan savannahs in the south, showcasing diverse environments and wildlife."
+    }
+  ]
+}
