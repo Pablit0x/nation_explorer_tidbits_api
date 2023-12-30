@@ -1,0 +1,20 @@
+{
+  "name": "Turkey",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Crossroads of Civilizations",
+      "description": "Turkey has been a historical crossroads for various civilizations, showcasing remnants of Greek, Roman, Byzantine, and Ottoman empires in its architecture and landmarks."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a rich cultural heritage seen in its diverse traditions, cuisine, music, and the UNESCO-listed sites like Hagia Sophia and the ancient city of Ephesus."
+    },
+    {
+      "id": 3,
+      "title": "Natural Wonders",
+      "description": "Turkey offers diverse landscapes, from the stunning coastline along the Aegean and Mediterranean Seas to the unique landscapes of Cappadocia and Pamukkale."
+    }
+  ]
+}
