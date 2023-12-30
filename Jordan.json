@@ -1,0 +1,20 @@
+{
+  "name": "Jordan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Sites",
+      "description": "Jordan is home to iconic historical sites like Petra, a UNESCO World Heritage Site, showcasing impressive rock-carved architecture."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country boasts diverse landscapes, from the ancient city of Jerash to the unique Dead Sea, one of the world's saltiest bodies of water."
+    },
+    {
+      "id": 3,
+      "title": "Hospitality and Culture",
+      "description": "Jordan is known for its hospitality and rich culture, offering warm welcomes, delicious cuisine, and traditional Bedouin customs."
+    }
+  ]
+}
