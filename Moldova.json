@@ -1,0 +1,20 @@
+{
+  "name": "Moldova",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Wine Country",
+      "description": "Moldova is known for its wine production, with vineyards spread across the countryside and a long history of winemaking."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a rich cultural heritage, seen in its traditional music, dance, crafts, and historic monasteries and fortresses."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Development",
+      "description": "Moldova faces economic challenges but is striving for development, aiming to strengthen its economy and foster international partnerships."
+    }
+  ]
+}
