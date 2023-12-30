@@ -1,0 +1,20 @@
+{
+  "name": "Eritrea",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Cultural Heritage",
+      "description": "Eritrea boasts a rich cultural heritage, with diverse ethnic groups, unique traditional clothing, vibrant music, and a strong emphasis on family and community."
+    },
+    {
+      "id": 2,
+      "title": "Unique Architecture",
+      "description": "The country showcases unique architecture, especially in Asmara, with well-preserved modernist and art deco buildings, recognized as a UNESCO World Heritage Site."
+    },
+    {
+      "id": 3,
+      "title": "Scenic Landscapes",
+      "description": "Eritrea features diverse landscapes, from the rugged beauty of the Danakil Depression to the stunning coastlines along the Red Sea."
+    }
+  ]
+}
