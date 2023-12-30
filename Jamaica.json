@@ -1,0 +1,20 @@
+{
+  "name": "Jamaica",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Reggae and Music Culture",
+      "description": "Jamaica is renowned for its music culture, particularly reggae, and its global icon, Bob Marley, whose music embodies the spirit of the nation."
+    },
+    {
+      "id": 2,
+      "title": "Beautiful Beaches",
+      "description": "The country is famous for its stunning beaches like Seven Mile Beach in Negril and Doctor's Cave Beach in Montego Bay, attracting tourists."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Jamaican cuisine, including jerk chicken, patties, and ackee and saltfish, reflects a blend of African, Indian, and European influences."
+    }
+  ]
+}
