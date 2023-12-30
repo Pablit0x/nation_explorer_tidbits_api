@@ -1,0 +1,20 @@
+{
+  "name": "Togo",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Voodoo Practices",
+      "description": "Togo has a significant presence of Voodoo practices, deeply rooted in its culture and traditions, influencing ceremonies, rituals, and everyday life."
+    },
+    {
+      "id": 2,
+      "title": "Market Culture",
+      "description": "The country's bustling markets, like the Grand Marché in Lomé, showcase vibrant colors, diverse goods, and a lively atmosphere, reflecting local commerce and culture."
+    },
+    {
+      "id": 3,
+      "title": "Colonial History",
+      "description": "Togo has a history shaped by colonial influences from various European powers, contributing to its diverse heritage and blending of traditions."
+    }
+  ]
+}
