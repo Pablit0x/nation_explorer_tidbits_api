@@ -1,0 +1,20 @@
+{
+  "name": "Saint Lucia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pitons' Majesty",
+      "description": "Saint Lucia is famed for the majestic twin peaks called the Pitons, a UNESCO World Heritage Site and a symbol of the island's natural beauty."
+    },
+    {
+      "id": 2,
+      "title": "Sulphur Springs",
+      "description": "The world's only drive-in volcano, Sulphur Springs in Soufrière, offers therapeutic mud baths and hot springs, attracting visitors seeking wellness and relaxation."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Fusion",
+      "description": "The island's rich cultural heritage blends African, French, and British influences, evident in its music, cuisine, and vibrant local traditions."
+    }
+  ]
+}
