@@ -1,0 +1,20 @@
+{
+  "name": "Samoa",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Traditions",
+      "description": "Samoa maintains strong cultural traditions known as fa'a Samoa, encompassing dance, tattooing, and communal activities, preserving a rich heritage."
+    },
+    {
+      "id": 2,
+      "title": "Natural Wonders",
+      "description": "The islands boast stunning natural attractions, including To Sua Ocean Trench, a picturesque swimming hole, and the impressive Alofaaga Blowholes."
+    },
+    {
+      "id": 3,
+      "title": "Early Polynesian Wayfinders",
+      "description": "Samoa is believed to be a central hub for Polynesian exploration, with early settlers using celestial navigation to traverse the Pacific Ocean."
+    }
+  ]
+}
