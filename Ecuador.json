@@ -1,0 +1,20 @@
+{
+  "name": "Ecuador",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Galapagos Islands",
+      "description": "Ecuador is home to the legendary Galapagos Islands, renowned for their unique wildlife and Charles Darwin's observations that contributed to the theory of evolution."
+    },
+    {
+      "id": 2,
+      "title": "Geographical Diversity",
+      "description": "The country showcases remarkable geographical diversity, encompassing the Andes Mountains, the Amazon Rainforest, and the Pacific Coast."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Ecuador celebrates a rich cultural heritage, with indigenous influences, colorful markets, traditional music like Andean folk, and a deep-rooted connection to nature."
+    }
+  ]
+}
