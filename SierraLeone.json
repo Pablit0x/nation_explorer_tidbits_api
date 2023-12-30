@@ -1,0 +1,20 @@
+{
+  "name": "Sierra Leone",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diamonds and Resources",
+      "description": "Sierra Leone is known for its diamond mines, though historically, the trade has been linked to conflicts. The country also possesses diverse natural resources."
+    },
+    {
+      "id": 2,
+      "title": "Resilience and Recovery",
+      "description": "After a period of civil war, Sierra Leone has made strides in recovery and development, focusing on peacebuilding, economic growth, and societal reconstruction."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Richness",
+      "description": "The country's cultural richness is reflected in its music, art, and traditions, with diverse ethnic groups contributing to its vibrant heritage."
+    }
+  ]
+}
