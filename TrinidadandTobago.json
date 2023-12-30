@@ -1,0 +1,20 @@
+{
+  "name": "Trinidad and Tobago",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Fusion",
+      "description": "The country showcases a vibrant mix of cultures, influenced by African, Indian, European, and indigenous traditions, reflected in its music, festivals, and cuisine."
+    },
+    {
+      "id": 2,
+      "title": "Carnival Celebrations",
+      "description": "Trinidad and Tobago is famous for its Carnival, a vibrant and colorful celebration featuring music, dance, elaborate costumes, and lively street parades."
+    },
+    {
+      "id": 3,
+      "title": "Natural Wonders",
+      "description": "The islands offer diverse natural beauty, from Tobago's pristine beaches and coral reefs to Trinidad's lush rainforests and the unique Pitch Lake, the world's largest natural asphalt deposit."
+    }
+  ]
+}
