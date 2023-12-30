@@ -1,0 +1,20 @@
+{
+  "name": "India",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "India is a land of diverse cultures, languages, and traditions, showcasing a rich tapestry of heritage, art, music, and festivals."
+    },
+    {
+      "id": 2,
+      "title": "Historical Marvels",
+      "description": "The country boasts magnificent historical marvels like the Taj Mahal, ancient temples, forts, and palaces, reflecting its glorious past."
+    },
+    {
+      "id": 3,
+      "title": "Spiritual Haven",
+      "description": "India is a spiritual haven, with sacred sites like Varanasi and Rishikesh, and a deep-rooted philosophy of yoga, meditation, and spirituality."
+    }
+  ]
+}
