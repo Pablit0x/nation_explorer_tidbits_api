@@ -1,0 +1,20 @@
+{
+  "name": "North Macedonia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical and Cultural Heritage",
+      "description": "North Macedonia has a rich historical and cultural heritage, seen in ancient sites like Ohrid and its diverse ethnic and religious influences."
+    },
+    {
+      "id": 2,
+      "title": "Scenic Beauty",
+      "description": "The country offers scenic beauty, including Lake Ohrid, mountainous landscapes, and traditional villages, attracting nature enthusiasts."
+    },
+    {
+      "id": 3,
+      "title": "European Integration",
+      "description": "North Macedonia has been pursuing European integration, making strides in political and economic reforms to join the European Union."
+    }
+  ]
+}
