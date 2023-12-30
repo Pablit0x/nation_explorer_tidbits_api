@@ -1,0 +1,20 @@
+{
+  "name": "Guinea",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Riches",
+      "description": "Guinea is blessed with natural riches, including vast mineral resources like bauxite, making it one of the world's top producers of the ore."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country features diverse landscapes, from savannas and lush forests to the Fouta Djallon highlands, providing scenic beauty and biodiversity."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Guinea has a rich cultural heritage, celebrated through traditional music, dance, and festivals like the Soumba and the Baga Nimba masks."
+    }
+  ]
+}
