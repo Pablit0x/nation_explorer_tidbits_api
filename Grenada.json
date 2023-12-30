@@ -1,0 +1,20 @@
+{
+  "name": "Grenada",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Spice Isle",
+      "description": "Grenada is known as the 'Spice Isle' for its production of nutmeg, cloves, cinnamon, and other spices, offering aromatic experiences for visitors."
+    },
+    {
+      "id": 2,
+      "title": "Stunning Beaches",
+      "description": "The island boasts stunning beaches with crystal-clear waters, white sands, and picturesque coves, ideal for snorkeling, diving, and relaxation."
+    },
+    {
+      "id": 3,
+      "title": "Rich Cultural Heritage",
+      "description": "Grenada's rich cultural heritage is reflected in traditions like the energetic Carnival celebrations, vibrant music, and the warmth of its people."
+    }
+  ]
+}
