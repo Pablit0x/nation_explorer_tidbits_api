@@ -1,0 +1,20 @@
+{
+  "name": "Guatemala",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mayan Heritage",
+      "description": "Guatemala is rich in Mayan heritage, with ancient ruins like Tikal, offering a glimpse into one of the world's most advanced ancient civilizations."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country boasts diverse landscapes, from volcanic highlands and lush rainforests to beautiful lakeshores, providing stunning natural vistas."
+    },
+    {
+      "id": 3,
+      "title": "Vibrant Culture",
+      "description": "Guatemala has a vibrant culture reflected in its colorful markets, traditional textiles, unique cuisine like pepián, and lively celebrations like Semana Santa."
+    }
+  ]
+}
