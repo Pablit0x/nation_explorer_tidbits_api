@@ -1,0 +1,20 @@
+{
+  "name": "South Africa",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Wildlife",
+      "description": "South Africa is famous for its diverse wildlife, including the 'Big Five' (lion, leopard, rhinoceros, elephant, and buffalo) found in its numerous national parks."
+    },
+    {
+      "id": 2,
+      "title": "Nelson Mandela's Legacy",
+      "description": "The country's transition from apartheid to democracy was led by Nelson Mandela, the iconic anti-apartheid leader, and the first democratically elected President of South Africa."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Mosaic",
+      "description": "South Africa is a vibrant melting pot of cultures, languages, and traditions, celebrated in its diverse music, cuisine, and festivals across the nation."
+    }
+  ]
+}
