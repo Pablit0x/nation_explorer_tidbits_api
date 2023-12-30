@@ -1,0 +1,20 @@
+{
+  "name": "Ivory Coast",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Ivory Coast is rich in cultural diversity, boasting various ethnic groups, each with its traditions, music, dance, and vibrant festivals."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country offers natural beauty with lush forests, diverse wildlife in national parks, and stunning coastal areas along the Gulf of Guinea."
+    },
+    {
+      "id": 3,
+      "title": "Cocoa Production",
+      "description": "Ivory Coast is a leading global producer of cocoa, playing a significant role in the world's chocolate industry and its economy."
+    }
+  ]
+}
