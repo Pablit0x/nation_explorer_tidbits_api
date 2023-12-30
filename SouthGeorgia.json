@@ -1,0 +1,20 @@
+{
+  "name": "South Georgia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pristine Wilderness",
+      "description": "South Georgia, a remote island in the Southern Ocean, is renowned for its breathtaking and untouched wilderness, with stunning landscapes and abundant wildlife."
+    },
+    {
+      "id": 2,
+      "title": "Penguin Colonies",
+      "description": "The island hosts massive colonies of penguins, including king penguins, attracting wildlife enthusiasts and researchers to study these incredible seabirds."
+    },
+    {
+      "id": 3,
+      "title": "Historical Significance",
+      "description": "South Georgia played a significant role in Antarctic exploration, notably serving as a base for Sir Ernest Shackleton's expeditions in the early 20th century."
+    }
+  ]
+}
