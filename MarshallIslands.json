@@ -1,0 +1,20 @@
+{
+  "name": "Marshall Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Island Nation",
+      "description": "The Marshall Islands is a collection of coral atolls and islands scattered across the Pacific Ocean, known for its stunning marine life."
+    },
+    {
+      "id": 2,
+      "title": "Nuclear Testing Legacy",
+      "description": "The country was affected by nuclear testing in the mid-20th century, and its history is intertwined with nuclear legacy and environmental concerns."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Traditions",
+      "description": "Marshallese culture is rich in traditions, including navigation skills, stick charts, and storytelling, preserving their heritage."
+    }
+  ]
+}
