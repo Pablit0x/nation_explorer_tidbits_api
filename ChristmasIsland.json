@@ -1,0 +1,20 @@
+{
+  "name": "Christmas Island",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Unique Biodiversity",
+      "description": "Christmas Island is known for its unique biodiversity, including the annual red crab migration, diverse marine life, and endemic species like the Abbott's booby bird."
+    },
+    {
+      "id": 2,
+      "title": "Natural Wonders",
+      "description": "The island features natural wonders such as the stunning Dales and Hugh's Waterfalls, expansive rainforests, and pristine beaches with diverse coral reefs."
+    },
+    {
+      "id": 3,
+      "title": "Phosphate Mining History",
+      "description": "Phosphate mining has historically shaped the island's economy and landscape, with remnants of mining infrastructure contributing to its unique character."
+    }
+  ]
+}
