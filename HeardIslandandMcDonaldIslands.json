@@ -1,0 +1,20 @@
+{
+  "name": "Heard Island and McDonald Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Remote and Uninhabited",
+      "description": "Heard Island and McDonald Islands are remote and uninhabited Australian territories, primarily known for their isolation and untouched natural environments."
+    },
+    {
+      "id": 2,
+      "title": "Unique Flora and Fauna",
+      "description": "Despite their harsh conditions, these islands host unique flora and fauna, including seabirds, seals, and mosses adapted to the extreme environment."
+    },
+    {
+      "id": 3,
+      "title": "Volcanic Activity",
+      "description": "Heard Island has an active volcano, Mawson Peak, the highest point in Australian territory, periodically erupting and reshaping the island's landscape."
+    }
+  ]
+}
