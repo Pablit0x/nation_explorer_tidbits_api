@@ -1,0 +1,20 @@
+{
+  "name": "Thailand",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Buddhist Temples",
+      "description": "Thailand is home to magnificent Buddhist temples, such as Wat Pho and Wat Arun in Bangkok, showcasing exquisite architecture and spiritual significance."
+    },
+    {
+      "id": 2,
+      "title": "Cuisine and Street Food",
+      "description": "Thai cuisine, known for its vibrant flavors, is celebrated worldwide. Street food culture thrives, offering an array of delicious and affordable dishes."
+    },
+    {
+      "id": 3,
+      "title": "Exotic Islands and Beaches",
+      "description": "The country boasts stunning islands and beaches like Phuket, Koh Samui, and Phi Phi Islands, attracting tourists with their picturesque landscapes and crystal-clear waters."
+    }
+  ]
+}
