@@ -1,0 +1,20 @@
+{
+  "name": "Uganda",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Breathtaking Landscapes",
+      "description": "Uganda is known as the 'Pearl of Africa' for its stunning landscapes, including the diverse terrains of savannas, mountains, lakes, and the source of the Nile River."
+    },
+    {
+      "id": 2,
+      "title": "Rich Wildlife",
+      "description": "The country hosts diverse wildlife, with famous national parks like Queen Elizabeth, Murchison Falls, and Bwindi Impenetrable Forest, home to mountain gorillas."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Uganda's cultural richness is evident in its various ethnic groups, each with distinct traditions, music, dance, and languages, contributing to its vibrant heritage."
+    }
+  ]
+}
