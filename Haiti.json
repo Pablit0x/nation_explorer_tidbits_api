@@ -1,0 +1,20 @@
+{
+  "name": "Haiti",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "First Independent Nation",
+      "description": "Haiti became the first independent nation in Latin America and the Caribbean, achieving freedom from colonial rule through a successful slave revolution."
+    },
+    {
+      "id": 2,
+      "title": "Vibrant Culture",
+      "description": "The country boasts a vibrant culture, expressed through art, music (such as compas and rara), dance, vibrant Vodou traditions, and rich cuisine."
+    },
+    {
+      "id": 3,
+      "title": "Challenging History",
+      "description": "Haiti has faced numerous challenges, including political turmoil, natural disasters, and economic difficulties, yet the resilience of its people remains strong."
+    }
+  ]
+}
