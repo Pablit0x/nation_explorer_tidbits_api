@@ -1,0 +1,20 @@
+{
+  "name": "Isle of Man",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Celtic and Viking Heritage",
+      "description": "The Isle of Man boasts a unique heritage, blending Celtic and Viking influences seen in its folklore, language, and historic sites."
+    },
+    {
+      "id": 2,
+      "title": "TT Motorcycle Races",
+      "description": "The island is famous for the TT (Tourist Trophy) motorcycle races, attracting enthusiasts worldwide to its thrilling and challenging course."
+    },
+    {
+      "id": 3,
+      "title": "Countryside Charm",
+      "description": "The Isle of Man offers countryside charm with picturesque landscapes, coastal beauty, and a relaxed pace of life that draws visitors year-round."
+    }
+  ]
+}
