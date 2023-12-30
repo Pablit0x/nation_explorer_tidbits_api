@@ -1,0 +1,20 @@
+{
+  "name": "Tokelau",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Atoll Life",
+      "description": "Tokelau consists of three atolls in the South Pacific, known for their pristine beauty, turquoise lagoons, and a way of life deeply connected to the sea."
+    },
+    {
+      "id": 2,
+      "title": "Small Population",
+      "description": "With a small population spread across the atolls, Tokelau maintains close-knit communities, preserving its Polynesian culture, language, and traditions."
+    },
+    {
+      "id": 3,
+      "title": "Sustainability Efforts",
+      "description": "The islands prioritize sustainability, with initiatives focused on environmental conservation, renewable energy, and traditional fishing practices."
+    }
+  ]
+}
