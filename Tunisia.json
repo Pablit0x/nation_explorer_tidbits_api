@@ -1,0 +1,20 @@
+{
+  "name": "Tunisia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Ruins",
+      "description": "Tunisia is home to impressive ancient ruins, including the Roman city of Carthage and the well-preserved amphitheater of El Jem, showcasing its rich historical heritage."
+    },
+    {
+      "id": 2,
+      "title": "Mediterranean Coastline",
+      "description": "The country boasts beautiful Mediterranean coastlines with sandy beaches and resort towns like Hammamet, attracting tourists seeking sun, sea, and relaxation."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Tunisia has a blend of Arab, Berber, and Mediterranean influences, reflected in its architecture, cuisine, music, and vibrant souks (markets) filled with local crafts."
+    }
+  ]
+}
