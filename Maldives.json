@@ -1,0 +1,20 @@
+{
+  "name": "Maldives",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Island Paradise",
+      "description": "Maldives is an idyllic island paradise, known for its crystal-clear turquoise waters, white sandy beaches, and vibrant marine life."
+    },
+    {
+      "id": 2,
+      "title": "Overwater Bungalows",
+      "description": "The country is famous for luxurious overwater bungalows, offering a unique and luxurious way to experience the beauty of the ocean."
+    },
+    {
+      "id": 3,
+      "title": "Marine Conservation",
+      "description": "Maldives is committed to marine conservation, with efforts to protect coral reefs, diverse marine species, and sustainable tourism practices."
+    }
+  ]
+}
