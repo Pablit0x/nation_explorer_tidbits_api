@@ -1,0 +1,20 @@
+{
+  "name": "Sint Maarten",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Dual Nationality",
+      "description": "Sint Maarten shares the island of Saint Martin with the French overseas collectivity of Saint-Martin, creating a unique blend of Dutch and French cultures."
+    },
+    {
+      "id": 2,
+      "title": "Tourist Haven",
+      "description": "The island is a popular tourist destination, renowned for its beautiful beaches, vibrant nightlife, and duty-free shopping in Philipsburg, the capital."
+    },
+    {
+      "id": 3,
+      "title": "Spectacular Aircraft Landings",
+      "description": "Princess Juliana International Airport in Sint Maarten is famous for its low-altitude aircraft landings over Maho Beach, offering thrilling experiences for plane enthusiasts."
+    }
+  ]
+}
