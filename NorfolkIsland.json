@@ -1,0 +1,20 @@
+{
+  "name": "Norfolk Island",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Australian External Territory",
+      "description": "Norfolk Island is an external territory of Australia, known for its natural beauty, historic sites, and tranquil lifestyle."
+    },
+    {
+      "id": 2,
+      "title": "Colonial History",
+      "description": "The island has a colonial history, visible in its heritage architecture, including Kingston, a UNESCO World Heritage Site."
+    },
+    {
+      "id": 3,
+      "title": "Unique Flora and Fauna",
+      "description": "Norfolk Island boasts unique flora and fauna, with species found nowhere else, making it a haven for nature enthusiasts."
+    }
+  ]
+}
