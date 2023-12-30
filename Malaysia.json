@@ -1,0 +1,21 @@
+{
+  "name": "Malaysia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Malaysia is culturally diverse, with Malay, Chinese, Indian, and indigenous influences seen in its cuisine, festivals, and traditions."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country boasts natural beauty, from tropical rainforests and stunning beaches to iconic landmarks like the Petronas Twin Towers."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Malaysia is renowned for its delicious cuisine, offering diverse flavors in dishes like nasi lemak, rendang, and satay."
+    }
+  ]
+}
+
