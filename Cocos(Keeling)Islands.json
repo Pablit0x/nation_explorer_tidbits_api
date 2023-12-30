@@ -1,0 +1,20 @@
+{
+  "name": "Cocos (Keeling) Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Beauty",
+      "description": "The Cocos Islands boast breathtaking natural beauty, with pristine beaches, vibrant coral reefs, and turquoise waters ideal for diving and snorkeling."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Fusion",
+      "description": "The islands have a unique cultural blend, influenced by Malay, British, and Australian heritage, reflected in traditions, cuisine, and daily life."
+    },
+    {
+      "id": 3,
+      "title": "Seabird Sanctuaries",
+      "description": "The Cocos Islands serve as important seabird sanctuaries, with millions of migratory seabirds nesting on these remote atolls and contributing to their ecological significance."
+    }
+  ]
+}
