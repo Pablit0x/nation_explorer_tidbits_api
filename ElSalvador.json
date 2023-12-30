@@ -1,0 +1,20 @@
+{
+  "name": "El Salvador",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Volcanic Landscapes",
+      "description": "El Salvador is known for its stunning volcanic landscapes, with many volcanoes dotting the country, offering picturesque scenery and hiking opportunities."
+    },
+    {
+      "id": 2,
+      "title": "Rich Pupusa Tradition",
+      "description": "Pupusas, a traditional Salvadoran dish, are thick corn tortillas stuffed with various fillings like cheese, beans, and meats, representing a staple of local cuisine."
+    },
+    {
+      "id": 3,
+      "title": "Surfing Paradise",
+      "description": "The country's coastline, particularly in places like La Libertad, attracts surfers from around the world, offering great waves and a vibrant surfing culture."
+    }
+  ]
+}
