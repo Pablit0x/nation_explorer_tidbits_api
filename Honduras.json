@@ -1,0 +1,20 @@
+{
+  "name": "Honduras",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Maya Heritage",
+      "description": "Honduras preserves a rich Maya heritage with archaeological sites like Copán, showcasing magnificent ruins and hieroglyphic stairway inscriptions."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Natural Landscapes",
+      "description": "The country boasts diverse natural landscapes, including tropical rainforests, Caribbean beaches, and the stunning Bay Islands' coral reefs."
+    },
+    {
+      "id": 3,
+      "title": "Coffee Culture",
+      "description": "Honduras is renowned for its coffee production, offering specialty beans and a coffee culture that contributes significantly to its economy."
+    }
+  ]
+}
