@@ -1,0 +1,20 @@
+{
+  "name": "Nigeria",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Cultures and Ethnicities",
+      "description": "Nigeria is known for its diverse cultures and ethnicities, with over 250 ethnic groups, each contributing to the country's rich heritage."
+    },
+    {
+      "id": 2,
+      "title": "Natural Resources",
+      "description": "The country is abundant in natural resources, including oil, and has a growing economy despite facing challenges like corruption and poverty."
+    },
+    {
+      "id": 3,
+      "title": "Nollywood and Arts",
+      "description": "Nigeria's vibrant arts scene, especially Nollywood (Nigerian cinema), showcases its cultural influence and storytelling prowess globally."
+    }
+  ]
+}
