@@ -1,0 +1,20 @@
+{
+  "name": "Poland",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich History and Heritage",
+      "description": "Poland has a rich history, seen in medieval towns, Gothic castles, and cultural heritage sites like Krakow's Old Town and Wieliczka Salt Mine."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country boasts natural beauty, including the Tatra Mountains, Bialowieza Forest, and Mazury Lakes, attracting outdoor enthusiasts."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Contributions",
+      "description": "Poland's cultural contributions include music, literature, and scientific achievements, fostering a strong sense of national identity."
+    }
+  ]
+}
