@@ -1,0 +1,20 @@
+{
+  "name": "Egypt",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Wonders",
+      "description": "Egypt is home to iconic ancient wonders like the Pyramids of Giza, the Sphinx, and historic temples along the Nile, showcasing a rich pharaonic history."
+    },
+    {
+      "id": 2,
+      "title": "Cradle of Civilization",
+      "description": "Often referred to as the 'Cradle of Civilization,' Egypt has a profound cultural legacy that influenced art, architecture, and writing across centuries."
+    },
+    {
+      "id": 3,
+      "title": "Nile River",
+      "description": "The Nile River, the longest in the world, is the lifeblood of Egypt, fostering agriculture, culture, and history along its fertile banks."
+    }
+  ]
+}
