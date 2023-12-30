@@ -1,0 +1,20 @@
+{
+  "name": "Saint Kitts and Nevis",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Sugar Cane Legacy",
+      "description": "Historically known for its sugar production, Saint Kitts and Nevis once had a thriving sugar industry that significantly shaped its economy and history."
+    },
+    {
+      "id": 2,
+      "title": "Dual-Island Nation",
+      "description": "As the smallest sovereign state in the Americas, Saint Kitts and Nevis consists of two islands, Saint Kitts and Nevis, each offering unique landscapes and cultural experiences."
+    },
+    {
+      "id": 3,
+      "title": "Old Colonial Architecture",
+      "description": "The islands boast charming colonial architecture, including Brimstone Hill Fortress on Saint Kitts, recognized as a UNESCO World Heritage Site for its historical significance."
+    }
+  ]
+}
