@@ -1,0 +1,20 @@
+{
+  "name": "Greenland",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vast Ice Sheet",
+      "description": "Greenland is home to the world's second-largest ice sheet, covering about 80% of the island and holding a significant portion of the world's freshwater."
+    },
+    {
+      "id": 2,
+      "title": "Inuit Culture",
+      "description": "The indigenous Inuit culture is integral to Greenland, with traditions, art, and a way of life deeply connected to the land, ice, and Arctic environment."
+    },
+    {
+      "id": 3,
+      "title": "Unique Natural Phenomena",
+      "description": "Greenland offers unique natural phenomena like the Northern Lights (Aurora Borealis) and the Midnight Sun, enchanting visitors with breathtaking displays."
+    }
+  ]
+}
