@@ -1,0 +1,20 @@
+{
+  "name": "Mali",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich History",
+      "description": "Mali has a rich history, known for the ancient city of Timbuktu, a center of learning and trade during the height of the Mali Empire."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a vibrant cultural heritage seen in traditional music, art, storytelling, and impressive mud-brick architecture."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Resilience",
+      "description": "Despite facing challenges like droughts and conflicts, Mali's people exhibit resilience, preserving their traditions and way of life."
+    }
+  ]
+}
