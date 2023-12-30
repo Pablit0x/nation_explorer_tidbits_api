@@ -1,0 +1,20 @@
+{
+  "name": "Canada",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vast Wilderness",
+      "description": "Canada is known for its vast wilderness, including stunning national parks like Banff and Jasper, offering diverse landscapes from mountains to tundra."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Mosaic",
+      "description": "Canada embraces diversity, with a multicultural society, indigenous heritage, and a reputation for inclusivity, fostering a rich tapestry of traditions and cuisines."
+    },
+    {
+      "id": 3,
+      "title": "Hockey Passion",
+      "description": "Hockey is a national passion in Canada, deeply ingrained in the country's culture, with the NHL (National Hockey League) and international tournaments like the Stanley Cup."
+    }
+  ]
+}
