@@ -1,0 +1,20 @@
+{
+  "name": "Tuvalu",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Small Island Nation",
+      "description": "Tuvalu is one of the smallest and least populated countries globally, comprising nine coral atolls in the South Pacific Ocean."
+    },
+    {
+      "id": 2,
+      "title": "Threat of Rising Sea Levels",
+      "description": "The nation faces the threat of rising sea levels, making it one of the most vulnerable countries to the effects of climate change, impacting its land and livelihoods."
+    },
+    {
+      "id": 3,
+      "title": "Culture and Traditions",
+      "description": "Tuvalu's culture revolves around traditional Polynesian customs, including music, dance, and craftsmanship, reflecting the islanders' way of life."
+    }
+  ]
+}
