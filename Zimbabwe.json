@@ -1,0 +1,20 @@
+{
+  "name": "Zimbabwe",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Richness",
+      "description": "Zimbabwe has a rich historical heritage, including the UNESCO World Heritage Site of Great Zimbabwe, an ancient city known for its impressive stone ruins."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country boasts diverse landscapes, from the iconic Victoria Falls to national parks like Hwange and Mana Pools, offering abundant wildlife and stunning scenery."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Zimbabwe has a diverse cultural landscape, with various ethnic groups contributing to its vibrant music, dance, art, and traditional ceremonies."
+    }
+  ]
+}
