@@ -1,0 +1,20 @@
+{
+  "name": "Georgia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cradle of Wine",
+      "description": "Georgia is considered the 'Cradle of Wine,' with an ancient winemaking tradition dating back over 8,000 years, producing unique and flavorful wines."
+    },
+    {
+      "id": 2,
+      "title": "Scenic Landscapes",
+      "description": "The country boasts diverse landscapes, from the rugged Caucasus Mountains to the picturesque vineyards of Kakheti and the stunning Black Sea coast."
+    },
+    {
+      "id": 3,
+      "title": "Warm Hospitality",
+      "description": "Georgian hospitality, symbolized by 'supra' feasts and heartfelt toasts, is integral to the culture, emphasizing warmth, generosity, and communal gatherings."
+    }
+  ]
+}
