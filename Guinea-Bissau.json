@@ -1,0 +1,20 @@
+{
+  "name": "Guinea-Bissau",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Biodiversity Hotspot",
+      "description": "Guinea-Bissau is a biodiversity hotspot, boasting diverse ecosystems, mangrove swamps, and national parks that support rich wildlife."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Melting Pot",
+      "description": "The country is a cultural melting pot, with various ethnic groups contributing to its cultural mosaic, seen in music, dance, and traditional ceremonies."
+    },
+    {
+      "id": 3,
+      "title": "Colonial Heritage",
+      "description": "Colonial influences from Portuguese rule are evident in Guinea-Bissau's architecture, language, and customs, reflecting its historical past."
+    }
+  ]
+}
