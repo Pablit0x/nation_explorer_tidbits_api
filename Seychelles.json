@@ -1,0 +1,20 @@
+{
+  "name": "Seychelles",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Pristine Beaches",
+      "description": "Seychelles is renowned for its stunning, pristine beaches with crystal-clear waters and white sands, offering a paradise-like setting for visitors."
+    },
+    {
+      "id": 2,
+      "title": "Unique Flora and Fauna",
+      "description": "The islands host unique biodiversity, including the rare Coco de Mer palm and a variety of endemic species like the Aldabra giant tortoise."
+    },
+    {
+      "id": 3,
+      "title": "Creole Culture",
+      "description": "Seychellois culture is a vibrant mix of African, Asian, and European influences, reflected in their language, music, dance, and cuisine."
+    }
+  ]
+}
