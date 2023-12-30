@@ -1,0 +1,20 @@
+{
+  "name": "Kazakhstan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vast Steppes and Landscapes",
+      "description": "Kazakhstan features vast steppes, deserts, and mountainous landscapes, including the spectacular Tien Shan and Altai Mountains."
+    },
+    {
+      "id": 2,
+      "title": "Rich Nomadic Heritage",
+      "description": "The country has a rich nomadic heritage, reflected in its traditions, yurts (or felt tents), and a deep respect for equestrian culture."
+    },
+    {
+      "id": 3,
+      "title": "Modern Urban Centers",
+      "description": "Kazakhstan boasts modern urban centers like Astana (now Nur-Sultan) and Almaty, blending modernity with cultural heritage and innovation."
+    }
+  ]
+}
