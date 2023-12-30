@@ -1,0 +1,20 @@
+{
+  "name": "Malawi",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Lake Malawi",
+      "description": "Malawi is renowned for Lake Malawi, a UNESCO World Heritage Site, known for its crystal-clear waters and diverse aquatic life."
+    },
+    {
+      "id": 2,
+      "title": "Warm Hospitality",
+      "description": "The country is known for its warm hospitality, vibrant culture, and the friendliness of its people, often called the 'Warm Heart of Africa.'"
+    },
+    {
+      "id": 3,
+      "title": "Stunning Landscapes",
+      "description": "Malawi offers stunning landscapes, including the Great Rift Valley, national parks, and high plateaus, ideal for hiking and safaris."
+    }
+  ]
+}
