@@ -1,0 +1,20 @@
+{
+  "name": "Oman",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Landscapes",
+      "description": "Oman offers diverse landscapes, from deserts like the Wahiba Sands to stunning coastlines and the Hajar Mountains' rugged beauty."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "The country has a rich cultural heritage seen in traditional architecture, souks, frankincense trade, and Bedouin-influenced traditions."
+    },
+    {
+      "id": 3,
+      "title": "Modern Development",
+      "description": "Oman balances its traditional values with modern development, focusing on infrastructure, tourism, and economic diversification."
+    }
+  ]
+}
