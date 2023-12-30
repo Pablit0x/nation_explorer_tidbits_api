@@ -1,0 +1,20 @@
+{
+  "name": "Lebanon",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Melting Pot",
+      "description": "Lebanon is a cultural melting pot, known for its diverse heritage, vibrant arts scene, and the coexistence of various religious and ethnic groups."
+    },
+    {
+      "id": 2,
+      "title": "Historical Landmarks",
+      "description": "The country boasts historical landmarks like Baalbek's ancient Roman ruins and Byblos, one of the oldest continuously inhabited cities."
+    },
+    {
+      "id": 3,
+      "title": "Cuisine and Hospitality",
+      "description": "Lebanese cuisine, including dishes like tabbouleh and kebabs, is renowned worldwide, reflecting the country's hospitality and culinary richness."
+    }
+  ]
+}
