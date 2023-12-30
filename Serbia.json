@@ -1,0 +1,20 @@
+{
+  "name": "Serbia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Cultural Heritage",
+      "description": "Serbia boasts a rich cultural heritage, seen in its medieval monasteries like Studenica and the ancient city of Niš, reflecting its diverse history."
+    },
+    {
+      "id": 2,
+      "title": "Rakija Tradition",
+      "description": "Rakija, a fruit brandy, holds significant cultural importance, often shared during gatherings and celebrations, representing Serbian hospitality."
+    },
+    {
+      "id": 3,
+      "title": "Exit Festival",
+      "description": "The Exit Festival in Novi Sad is one of Europe's biggest music festivals, attracting international artists and drawing crowds to its vibrant atmosphere."
+    }
+  ]
+}
