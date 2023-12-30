@@ -1,0 +1,20 @@
+{
+  "name": "Guyana",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Natural Beauty",
+      "description": "Guyana is home to vast rainforests, the stunning Kaieteur Falls, and diverse ecosystems, offering an abundance of natural beauty and wildlife."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country embraces cultural diversity, with influences from Indigenous peoples, East Indian, African, and European heritage, shaping its traditions."
+    },
+    {
+      "id": 3,
+      "title": "Rich Resources",
+      "description": "Guyana possesses significant natural resources, including gold, diamonds, and extensive untapped oil reserves, holding promise for economic growth."
+    }
+  ]
+}
