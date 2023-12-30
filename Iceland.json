@@ -1,0 +1,20 @@
+{
+  "name": "Iceland",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Land of Fire and Ice",
+      "description": "Iceland is known as the 'Land of Fire and Ice,' featuring stunning contrasts of glaciers, volcanoes, geysers, and breathtaking natural landscapes."
+    },
+    {
+      "id": 2,
+      "title": "Northern Lights",
+      "description": "The country offers remarkable opportunities to witness the Northern Lights (Aurora Borealis), captivating visitors with its celestial light displays."
+    },
+    {
+      "id": 3,
+      "title": "Progressive Society",
+      "description": "Iceland is celebrated for its progressive society, gender equality, renewable energy initiatives, and a strong emphasis on environmental conservation."
+    }
+  ]
+}
