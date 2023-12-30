@@ -1,0 +1,20 @@
+{
+  "name": "Turkmenistan",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Silk Road",
+      "description": "Turkmenistan was a key stop on the ancient Silk Road, with historic cities like Merv and Nisa, recognized as UNESCO World Heritage Sites."
+    },
+    {
+      "id": 2,
+      "title": "Gas Reserves",
+      "description": "The country has significant natural gas reserves, and the 'Door to Hell,' a natural gas field in Derweze, has a perpetually burning crater known as the 'Gates of Hell.'"
+    },
+    {
+      "id": 3,
+      "title": "Cultural Heritage",
+      "description": "Turkmenistan showcases a blend of Turkmen, Persian, and Soviet influences in its art, music, and architecture, reflecting its diverse cultural heritage."
+    }
+  ]
+}
