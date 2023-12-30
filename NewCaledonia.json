@@ -1,0 +1,20 @@
+{
+  "name": "New Caledonia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "French Overseas Territory",
+      "description": "New Caledonia is a French overseas territory in the Pacific known for its diverse landscapes, including coral reefs and lush forests."
+    },
+    {
+      "id": 2,
+      "title": "Kanak Culture",
+      "description": "The Kanak people have a rich culture on the islands, with traditional arts, customs, and ceremonies, contributing to New Caledonia's identity."
+    },
+    {
+      "id": 3,
+      "title": "Natural Beauty",
+      "description": "The territory's natural beauty extends to the UNESCO-listed lagoon, the world's largest, and a range of endemic flora and fauna."
+    }
+  ]
+}
