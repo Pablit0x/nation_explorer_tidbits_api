@@ -1,0 +1,20 @@
+{
+  "name": "Kosovo",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Recent Independence",
+      "description": "Kosovo declared its independence from Serbia in 2008, becoming one of the world's newest countries, though its status remains disputed."
+    },
+    {
+      "id": 2,
+      "title": "Cultural and Historical Sites",
+      "description": "The region boasts cultural and historical sites like the Gračanica Monastery and the ancient city of Prizren, reflecting its diverse heritage."
+    },
+    {
+      "id": 3,
+      "title": "Natural Beauty",
+      "description": "Kosovo offers natural beauty with scenic landscapes, mountains like the Accursed Mountains, and picturesque rural areas."
+    }
+  ]
+}
