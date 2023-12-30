@@ -1,0 +1,20 @@
+{
+  "name": "Saint Martin",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Dual Nationality",
+      "description": "Saint Martin is divided between two nations: the French overseas collectivity of Saint-Martin and the Dutch constituent country of Sint Maarten, showcasing a unique blend of cultures."
+    },
+    {
+      "id": 2,
+      "title": "Spectacular Beaches",
+      "description": "The island boasts stunning beaches such as Maho Beach, famous for its proximity to the airport runway, offering a thrilling experience as planes land and take off overhead."
+    },
+    {
+      "id": 3,
+      "title": "Culinary Delights",
+      "description": "Saint Martin's cuisine is diverse and exquisite, with a fusion of French, Dutch, Caribbean, and international flavors, attracting food enthusiasts from around the globe."
+    }
+  ]
+}
