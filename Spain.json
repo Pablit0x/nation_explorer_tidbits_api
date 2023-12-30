@@ -1,0 +1,20 @@
+{
+  "name": "Spain",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Spain is a diverse country, with distinct regional cultures, languages like Catalan and Basque, and a rich heritage seen in its art, architecture, and traditions."
+    },
+    {
+      "id": 2,
+      "title": "Tapas and Cuisine",
+      "description": "The country is renowned for its delicious cuisine, especially tapas, a wide variety of small dishes often enjoyed with drinks, showcasing Spain's culinary creativity."
+    },
+    {
+      "id": 3,
+      "title": "Historical Landmarks",
+      "description": "Spain boasts remarkable historical landmarks such as the Sagrada Familia in Barcelona, Alhambra in Granada, and the ancient city of Toledo, reflecting its rich history."
+    }
+  ]
+}
