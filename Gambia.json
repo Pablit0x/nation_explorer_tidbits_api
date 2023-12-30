@@ -1,0 +1,20 @@
+{
+  "name": "Gambia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "River Gambia",
+      "description": "Gambia is named after the River Gambia, the country's main waterway, which runs through its center and plays a crucial role in its geography and culture."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country embraces cultural diversity, with various ethnic groups coexisting harmoniously, each contributing unique traditions, music, and art."
+    },
+    {
+      "id": 3,
+      "title": "Birdwatching Haven",
+      "description": "Gambia is a birdwatcher's paradise, with diverse bird species, especially along the riverbanks and protected areas, attracting bird enthusiasts worldwide."
+    }
+  ]
+}
