@@ -1,0 +1,20 @@
+{
+  "name": "Indonesia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Archipelago Wonders",
+      "description": "Indonesia is an archipelago with thousands of islands, offering diverse landscapes, from lush rainforests and volcanoes to stunning beaches."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country embraces cultural diversity, seen in its various ethnic groups, languages, traditions, and rich art forms like batik and gamelan music."
+    },
+    {
+      "id": 3,
+      "title": "Biodiversity Hotspot",
+      "description": "Indonesia is a biodiversity hotspot, housing unique species like orangutans and Komodo dragons, making it a paradise for nature enthusiasts."
+    }
+  ]
+}
