@@ -1,0 +1,20 @@
+{
+  "name": "Mongolia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Vast Steppes and Nomadic Culture",
+      "description": "Mongolia is known for its vast steppes, nomadic herding traditions, and the iconic Gobi Desert, offering a rugged and diverse landscape."
+    },
+    {
+      "id": 2,
+      "title": "Rich History and Genghis Khan",
+      "description": "The country has a rich history, including the legacy of Genghis Khan, and is home to ancient monasteries, temples, and archaeological sites."
+    },
+    {
+      "id": 3,
+      "title": "Naadam Festival",
+      "description": "The Naadam Festival celebrates Mongolian culture with traditional sports like wrestling, horse racing, and archery, showcasing national pride."
+    }
+  ]
+}
