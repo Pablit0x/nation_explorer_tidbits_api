@@ -1,0 +1,20 @@
+{
+  "name": "Germany",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Germany boasts a rich cultural tapestry, from the historic cities like Berlin and Munich to the scenic beauty of the Black Forest and Bavarian Alps."
+    },
+    {
+      "id": 2,
+      "title": "Innovative Engineering",
+      "description": "The country is renowned for its engineering prowess, seen in automotive excellence with brands like Mercedes-Benz, BMW, and its contributions to technology."
+    },
+    {
+      "id": 3,
+      "title": "Love for Beer",
+      "description": "Germany is known for its beer culture, hosting Oktoberfest and offering a wide variety of beers, brewed according to centuries-old purity laws."
+    }
+  ]
+}
