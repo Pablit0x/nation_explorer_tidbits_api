@@ -1,0 +1,20 @@
+{
+  "name": "Saint Vincent and the Grenadines",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Volcanic Legacy",
+      "description": "Saint Vincent, characterized by its active volcano La Soufrière, provides a stunning landscape, while the Grenadines offer pristine beaches and turquoise waters."
+    },
+    {
+      "id": 2,
+      "title": "Pirate History",
+      "description": "The Grenadines were a haunt for pirates, and the famous Captain William Kidd is rumored to have left treasure on one of the islands, contributing to its allure."
+    },
+    {
+      "id": 3,
+      "title": "Black Sand Beaches",
+      "description": "Unique black sand beaches like those found on Young Island near Saint Vincent offer a different seaside experience, attracting travelers seeking something distinct."
+    }
+  ]
+}
