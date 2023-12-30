@@ -1,0 +1,20 @@
+{
+  "name": "Tanzania",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mount Kilimanjaro",
+      "description": "Tanzania is home to Mount Kilimanjaro, Africa's highest peak, attracting climbers and offering stunning views from its snow-capped summit."
+    },
+    {
+      "id": 2,
+      "title": "Serengeti and Wildlife",
+      "description": "The Serengeti National Park hosts the Great Migration, one of the world's most breathtaking wildlife spectacles, with abundant wildlife like lions, elephants, and wildebeests."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "Tanzania's cultural richness is seen in its diverse ethnic groups, each contributing unique traditions, music, dance, and artwork to the country's heritage."
+    }
+  ]
+}
