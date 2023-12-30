@@ -1,0 +1,20 @@
+{
+  "name": "Czechia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Richness",
+      "description": "Czechia is rich in history, with a wealth of architectural gems like Prague Castle, Charles Bridge, and well-preserved medieval towns such as Český Krumlov."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a vibrant cultural scene, celebrated for its classical music, renowned composers like Dvořák and Smetana, and a passion for theater and literature."
+    },
+    {
+      "id": 3,
+      "title": "Beer Tradition",
+      "description": "Czechia has a deep-rooted beer culture, producing world-famous brews like Pilsner Urquell and boasting the highest beer consumption per capita globally."
+    }
+  ]
+}
