@@ -1,0 +1,20 @@
+{
+  "name": "Papua New Guinea",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Papua New Guinea is known for its immense cultural diversity, with over 800 languages spoken and distinct traditional practices."
+    },
+    {
+      "id": 2,
+      "title": "Natural Beauty",
+      "description": "The country boasts stunning natural beauty, including tropical rainforests, volcanic landscapes, and diverse marine ecosystems."
+    },
+    {
+      "id": 3,
+      "title": "Challenges and Resilience",
+      "description": "Despite challenges, Papua New Guinea showcases resilience, rich artistic traditions, and a unique way of life in its remote communities."
+    }
+  ]
+}
