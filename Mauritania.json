@@ -1,0 +1,20 @@
+{
+  "name": "Mauritania",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Saharan Nation",
+      "description": "Mauritania is a Saharan nation known for vast desert landscapes, including the UNESCO-listed Banc d'Arguin National Park."
+    },
+    {
+      "id": 2,
+      "title": "Rich Nomadic Heritage",
+      "description": "The country has a rich nomadic heritage, and traditional Moorish culture is reflected in art, music, and tea-drinking ceremonies."
+    },
+    {
+      "id": 3,
+      "title": "Slavery Abolition",
+      "description": "Mauritania was one of the last countries to abolish slavery in 1981 and criminalized it in 2007, but challenges persist in enforcement."
+    }
+  ]
+}
