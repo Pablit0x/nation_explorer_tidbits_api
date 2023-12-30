@@ -1,0 +1,20 @@
+{
+  "name": "Portugal",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Maritime Legacy",
+      "description": "Portugal has a rich maritime legacy, with explorers like Vasco da Gama and a history of discoveries that influenced global navigation."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a diverse cultural heritage, seen in Fado music, historic landmarks like the Tower of Belém, and Azulejos art."
+    },
+    {
+      "id": 3,
+      "title": "Gastronomy and Wine",
+      "description": "Portugal is celebrated for its gastronomy, including pastéis de nata, and produces renowned wines like Port and Vinho Verde."
+    }
+  ]
+}
