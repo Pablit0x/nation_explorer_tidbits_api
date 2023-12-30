@@ -1,0 +1,20 @@
+{
+  "name": "Finland",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Land of a Thousand Lakes",
+      "description": "Finland is known as the 'Land of a Thousand Lakes,' boasting around 188,000 lakes, offering serene landscapes for nature enthusiasts."
+    },
+    {
+      "id": 2,
+      "title": "Sauna Culture",
+      "description": "Finland has a strong sauna culture, with over 2 million saunas in the country, providing a significant part of Finnish social life and relaxation."
+    },
+    {
+      "id": 3,
+      "title": "Education Excellence",
+      "description": "The country is recognized for its exceptional education system, emphasizing equality and innovative teaching methods, ranking high in global education assessments."
+    }
+  ]
+}
