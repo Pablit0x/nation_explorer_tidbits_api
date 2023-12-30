@@ -1,0 +1,20 @@
+{
+  "name": "Israel",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Significance",
+      "description": "Israel holds immense historical significance with religious sites like Jerusalem's Old City, important to Judaism, Christianity, and Islam."
+    },
+    {
+      "id": 2,
+      "title": "Innovation Hub",
+      "description": "The country is an innovation hub, known for its advancements in technology, startup culture, and scientific research and development."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "description": "Israel features diverse landscapes, from the Dead Sea, the lowest point on Earth, to the Negev Desert and the lush Galilee region."
+    }
+  ]
+}
