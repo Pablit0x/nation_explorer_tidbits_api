@@ -1,0 +1,20 @@
+{
+  "name": "Cape Verde",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Volcanic Islands",
+      "description": "Cape Verde is a collection of volcanic islands, offering dramatic landscapes with volcanic peaks, stunning beaches, and a mix of Portuguese and African influences."
+    },
+    {
+      "id": 2,
+      "title": "Morna Music",
+      "description": "The islands are known for Morna music, a soulful genre blending Portuguese fado with African rhythms, reflecting the nation's cultural heritage and emotions."
+    },
+    {
+      "id": 3,
+      "title": "Resilient Society",
+      "description": "Cape Verdeans are known for their resilience, having endured droughts and other challenges, yet maintaining a vibrant culture, warm hospitality, and a strong sense of community."
+    }
+  ]
+}
