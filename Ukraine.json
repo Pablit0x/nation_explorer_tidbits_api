@@ -1,0 +1,20 @@
+{
+  "name": "Ukraine",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Historical Heritage",
+      "description": "Ukraine boasts a rich historical heritage, seen in its UNESCO World Heritage Sites like Kyiv's Saint Sophia Cathedral and the ancient city of Lviv."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country embraces diverse cultures, traditions, and languages, with influences from Eastern and Western Europe contributing to its vibrant cultural tapestry."
+    },
+    {
+      "id": 3,
+      "title": "Agricultural Breadbasket",
+      "description": "Ukraine is known as the 'breadbasket of Europe' due to its fertile soils, producing significant amounts of grains and being a major agricultural exporter."
+    }
+  ]
+}
