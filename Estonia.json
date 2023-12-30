@@ -1,0 +1,20 @@
+{
+  "name": "Estonia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Digital Pioneers",
+      "description": "Estonia is a global leader in digital innovation, known for its e-government initiatives, digital ID cards, and being one of the most digitally advanced societies."
+    },
+    {
+      "id": 2,
+      "title": "Medieval Old Towns",
+      "description": "The country boasts well-preserved medieval old towns, particularly in Tallinn, offering cobblestone streets, historic architecture, and a vibrant cultural scene."
+    },
+    {
+      "id": 3,
+      "title": "Nature Lover's Paradise",
+      "description": "Estonia's diverse landscapes include dense forests, picturesque islands, and bogs, attracting nature enthusiasts and providing ample opportunities for outdoor activities."
+    }
+  ]
+}
