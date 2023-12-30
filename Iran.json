@@ -1,0 +1,20 @@
+{
+  "name": "Iran",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich History",
+      "description": "Iran has a rich historical legacy, with ancient civilizations, architectural wonders like Persepolis, and a significant influence on world history."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a vibrant cultural heritage seen in its art, poetry, music (such as traditional Persian music), and intricate handicrafts."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "description": "Iran features diverse landscapes, from deserts and mountains to lush forests, providing varied ecosystems and natural beauty."
+    }
+  ]
+}
