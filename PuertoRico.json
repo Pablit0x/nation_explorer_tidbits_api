@@ -1,0 +1,20 @@
+{
+  "name": "Puerto Rico",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Caribbean Island Territory",
+      "description": "Puerto Rico is a Caribbean island territory of the United States, known for its beautiful beaches, vibrant culture, and tropical climate."
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Blend",
+      "description": "The island boasts a rich cultural blend of Taíno, African, and Spanish influences, reflected in its music, cuisine, and traditions."
+    },
+    {
+      "id": 3,
+      "title": "El Yunque National Forest",
+      "description": "El Yunque, the only tropical rainforest in the U.S. National Forest System, offers lush landscapes, waterfalls, and diverse wildlife."
+    }
+  ]
+}
