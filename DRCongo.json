@@ -1,0 +1,20 @@
+{
+  "name": "DR Congo",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Congo Basin",
+      "description": "DR Congo is home to a significant portion of the Congo Basin rainforest, one of the world's largest tropical rainforests, vital for biodiversity and climate regulation."
+    },
+    {
+      "id": 2,
+      "title": "Mineral Riches",
+      "description": "The country is abundant in mineral resources, including cobalt, copper, and coltan, yet faces challenges in managing these resources sustainably."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Diversity",
+      "description": "DR Congo boasts a rich cultural tapestry, with hundreds of ethnic groups, diverse languages, traditional music like soukous, and vibrant artistry."
+    }
+  ]
+}
