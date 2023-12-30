@@ -1,0 +1,20 @@
+{
+  "name": "Croatia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Adriatic Coastline",
+      "description": "Croatia boasts a stunning Adriatic coastline, adorned with over a thousand islands, charming coastal towns, and crystal-clear waters."
+    },
+    {
+      "id": 2,
+      "title": "Historical Treasures",
+      "description": "The country is rich in historical treasures, including well-preserved medieval cities like Dubrovnik, ancient Roman ruins, and diverse cultural heritage."
+    },
+    {
+      "id": 3,
+      "title": "Natural Wonders",
+      "description": "Croatia offers diverse landscapes, from the majestic Plitvice Lakes National Park with its cascading waterfalls to the rugged beauty of the Dinaric Alps."
+    }
+  ]
+}
