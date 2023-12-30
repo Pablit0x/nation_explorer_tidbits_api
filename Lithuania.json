@@ -1,0 +1,20 @@
+{
+  "name": "Lithuania",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Baltic Beauty",
+      "description": "Lithuania is a Baltic beauty with charming medieval towns, lush forests, and the exquisite Curonian Spit, a UNESCO World Heritage Site."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country has a rich cultural heritage, seen in its folklore traditions, vibrant festivals, and a deep appreciation for arts and music."
+    },
+    {
+      "id": 3,
+      "title": "Basketball Passion",
+      "description": "Lithuania is passionate about basketball, with a strong basketball culture and a history of success in international competitions."
+    }
+  ]
+}
