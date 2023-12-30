@@ -1,0 +1,20 @@
+{
+  "name": "Somalia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Strategic Location",
+      "description": "Somalia holds a strategic location along the Horn of Africa, with a significant coastline along the Indian Ocean, shaping its history and trade relations."
+    },
+    {
+      "id": 2,
+      "title": "Nomadic Heritage",
+      "description": "Somalia has a strong nomadic heritage, and pastoralism plays a crucial role in the culture and economy, defining the traditional way of life for many communities."
+    },
+    {
+      "id": 3,
+      "title": "Cultural Oral Traditions",
+      "description": "The country has a rich tradition of oral poetry and storytelling, with a wealth of historical and cultural knowledge passed down through generations."
+    }
+  ]
+}
