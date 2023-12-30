@@ -1,0 +1,20 @@
+{
+  "name": "Cayman Islands",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Financial Hub",
+      "description": "The Cayman Islands are a global financial hub, known for their banking and finance sectors, offering tax advantages and a stable economy."
+    },
+    {
+      "id": 2,
+      "title": "Crystal-Clear Waters",
+      "description": "The islands boast stunning beaches with crystal-clear waters, perfect for snorkeling, diving, and exploring vibrant marine life, including colorful coral reefs."
+    },
+    {
+      "id": 3,
+      "title": "Turtle Conservation",
+      "description": "The Cayman Islands are committed to turtle conservation, with efforts to protect nesting sites and raise awareness about the endangered sea turtle species."
+    }
+  ]
+}
