@@ -1,0 +1,20 @@
+{
+  "name": "Syria",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rich Historical Heritage",
+      "description": "Syria boasts a rich historical heritage, with ancient sites like Palmyra, Aleppo's Old City, and the Umayyad Mosque in Damascus, showcasing its millennia-old civilizations."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Influence",
+      "description": "The country has been a crossroads for diverse cultures and civilizations, contributing to its unique blend of traditions, cuisine, and architectural styles."
+    },
+    {
+      "id": 3,
+      "title": "Conflict and Challenges",
+      "description": "Syria has faced prolonged conflict leading to humanitarian crises, impacting its people, heritage sites, and economy, resulting in significant challenges for the nation."
+    }
+  ]
+}
