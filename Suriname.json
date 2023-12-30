@@ -1,0 +1,20 @@
+{
+  "name": "Suriname",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Cultural Diversity",
+      "description": "Suriname is known for its cultural diversity, with influences from Indigenous, African, Indian, Javanese, and Dutch heritage, creating a rich tapestry of traditions."
+    },
+    {
+      "id": 2,
+      "title": "Biodiversity",
+      "description": "The country's lush rainforests and diverse ecosystems support a wide array of flora and fauna, including unique species like the Surinamese toad and the giant river otter."
+    },
+    {
+      "id": 3,
+      "title": "Paramaribo's Historic Center",
+      "description": "Paramaribo, the capital, boasts a UNESCO-listed historic inner city with colonial architecture and culturally significant sites, reflecting Suriname's history."
+    }
+  ]
+}
