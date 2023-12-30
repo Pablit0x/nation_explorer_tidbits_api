@@ -1,0 +1,20 @@
+{
+  "name": "Latvia",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Baltic Gem",
+      "description": "Latvia is a Baltic gem with a blend of vibrant cities, historic towns, and picturesque countryside adorned with lakes and dense forests."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Heritage",
+      "description": "The country boasts a rich cultural heritage seen in its traditional festivals, folklore, wooden architecture, and vibrant arts scene."
+    },
+    {
+      "id": 3,
+      "title": "Riga - Art Nouveau Capital",
+      "description": "Riga, the capital, showcases an exquisite Art Nouveau architecture and a lively atmosphere with its markets, cafes, and cultural events."
+    }
+  ]
+}
