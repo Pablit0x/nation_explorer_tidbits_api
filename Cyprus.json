@@ -1,0 +1,20 @@
+{
+  "name": "Cyprus",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Mediterranean Beauty",
+      "description": "Cyprus boasts Mediterranean beauty with stunning beaches, ancient ruins like Kourion, and diverse landscapes, including the Troodos Mountains."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Fusion",
+      "description": "The island's history has created a cultural blend, seen in its Greek and Turkish influences, Orthodox and Muslim traditions, and varied cuisines."
+    },
+    {
+      "id": 3,
+      "title": "Partitioned Nation",
+      "description": "Cyprus remains a partitioned nation, with the Republic of Cyprus in the south and the self-declared Turkish Republic of Northern Cyprus in the north."
+    }
+  ]
+}
