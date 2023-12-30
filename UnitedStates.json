@@ -1,0 +1,20 @@
+{
+  "name": "United States",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Diverse Landscapes",
+      "description": "The US features diverse landscapes, from the Grand Canyon and Yellowstone National Park to vibrant cities, coastal beaches, and vast farmlands."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Melting Pot",
+      "description": "The country is a melting pot of cultures, with influences from Native American, European, African, Asian, and Latin American traditions shaping its arts, cuisine, and society."
+    },
+    {
+      "id": 3,
+      "title": "Innovative Achievements",
+      "description": "The US is known for its innovations in technology, space exploration, entertainment, and more, contributing inventions like the internet, airplanes, and the film industry."
+    }
+  ]
+}
