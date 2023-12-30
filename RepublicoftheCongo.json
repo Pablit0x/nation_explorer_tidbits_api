@@ -1,0 +1,20 @@
+{
+  "name": "Republic of the Congo",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Rainforests and Wildlife",
+      "description": "The Republic of the Congo is renowned for its lush rainforests, diverse wildlife in places like Odzala National Park, and Congo River."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Diversity",
+      "description": "The country showcases cultural diversity through traditional music, art, and rituals of various ethnic groups like the Bakongo."
+    },
+    {
+      "id": 3,
+      "title": "Economic Challenges",
+      "description": "Despite natural resources, the nation faces economic challenges, striving for development amidst infrastructure and healthcare needs."
+    }
+  ]
+}
