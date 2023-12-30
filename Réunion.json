@@ -1,0 +1,20 @@
+{
+  "name": "Réunion",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Piton de la Fournaise",
+      "description": "Réunion is home to Piton de la Fournaise, one of the world's most active volcanoes, often displaying spectacular eruptions and lava flows."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Melting Pot",
+      "description": "The island's diverse population creates a vibrant cultural tapestry, blending African, Asian, European, and Indian influences into its cuisine, music, and traditions."
+    },
+    {
+      "id": 3,
+      "title": "Unique Biodiversity",
+      "description": "Réunion's lush landscapes harbor unique biodiversity, including the cloud forest of Bebour-Belouve and an array of endemic flora and fauna found nowhere else on earth."
+    }
+  ]
+}
