@@ -1,0 +1,20 @@
+{
+  "name": "Libya",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Ancient Ruins",
+      "description": "Libya boasts ancient ruins like Leptis Magna and Sabratha, showcasing well-preserved Roman and Greek archaeological sites."
+    },
+    {
+      "id": 2,
+      "title": "Diverse Landscapes",
+      "description": "The country offers diverse landscapes, including the Sahara Desert, Mediterranean coastline, and Jebel Akhdar's lush mountains."
+    },
+    {
+      "id": 3,
+      "title": "Recent Turbulence",
+      "description": "Libya has faced turmoil following the 2011 uprising, leading to political instability, conflict, and challenges in rebuilding the nation."
+    }
+  ]
+}
