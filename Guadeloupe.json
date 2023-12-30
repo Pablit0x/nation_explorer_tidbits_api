@@ -1,0 +1,20 @@
+{
+  "name": "Guadeloupe",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Archipelago Beauty",
+      "description": "Guadeloupe is an archipelago of diverse beauty, featuring volcanic landscapes, lush rainforests, stunning beaches, and the iconic La Soufrière volcano."
+    },
+    {
+      "id": 2,
+      "title": "Cultural Fusion",
+      "description": "The islands embrace a rich cultural fusion, blending French and Caribbean influences seen in the cuisine, music, art, and vibrant cultural festivals."
+    },
+    {
+      "id": 3,
+      "title": "Biodiversity Haven",
+      "description": "Guadeloupe harbors diverse ecosystems, from mangroves to coral reefs, providing habitats for unique wildlife and offering exceptional diving experiences."
+    }
+  ]
+}
