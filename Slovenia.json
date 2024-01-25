@@ -1,0 +1,21 @@
+{
+  "name": "Slovenia",
+  "videoId": "027sVN6lnR0",
+  "tidbits": [
+    {
+      "id": 1,
+      "title": "Lake Bled's Idyllic Beauty",
+      "description": "Slovenia is home to the picturesque Lake Bled, featuring a charming island with a church, a medieval castle perched on a hill, and stunning Alpine views."
+    },
+    {
+      "id": 2,
+      "title": "Lipizzaner Horses",
+      "description": "Slovenia is known for its Lipizzaner horses, bred for the Spanish Riding School in Vienna. The Lipica Stud Farm preserves this proud tradition."
+    },
+    {
+      "id": 3,
+      "title": "Underground Wonders in Škocjan Caves",
+      "description": "Explore the breathtaking Škocjan Caves, a UNESCO World Heritage site, featuring massive underground chambers, bridges, and one of the world's largest underground canyons."
+    }
+  ]
+}
