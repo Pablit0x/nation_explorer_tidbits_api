@@ -3,19 +3,19 @@
   "videoId" : "FJcqzKFf5lI",
   "tidbits": [
     {
-      "id": 1,
-      "title": "Rich History and Heritage",
-      "description": "Poland has a rich history, seen in medieval towns, Gothic castles, and cultural heritage sites like Krakow's Old Town and Wieliczka Salt Mine."
+    "id": 1,
+      "title": "Pierogi Paradise",
+      "description": "Indulge in Poland's love for pierogi, delicious dumplings with various fillings. Each region has its own twist, making it a culinary adventure across the country."
     },
     {
       "id": 2,
       "title": "Natural Beauty",
       "description": "The country boasts natural beauty, including the Tatra Mountains, Bialowieza Forest, and Mazury Lakes, attracting outdoor enthusiasts."
     },
-    {
+     {
       "id": 3,
-      "title": "Cultural Contributions",
-      "description": "Poland's cultural contributions include music, literature, and scientific achievements, fostering a strong sense of national identity."
+      "title": "Amber Capital of the World",
+      "description": "Poland is renowned as the Amber Capital of the World. Gdansk, in particular, is famous for its amber markets, offering unique jewelry and artifacts."
     }
   ]
 }
